@@ -1,0 +1,7 @@
+{
+  "require": {
+    "anahkiasen/underscore-php" : "dev-master",
+    "sendgrid/sendgrid": "2.1.1",
+    "recaptcha/php5": "v1.1.0"
+  }
+}

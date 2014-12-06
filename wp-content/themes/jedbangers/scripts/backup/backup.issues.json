@@ -1,0 +1,1371 @@
+[
+  {
+    "number": 84,
+    "title": "Judas Priest",
+    "is_subscription_gift": true,
+    "content": {
+      "main": [
+        {
+          "name": "Judas Priest",
+          "description": "Entrevista exclusiva con Rob Halford."
+        }
+      ],
+      "featured": [
+        {
+          "name": "Festivales Europeos",
+          "description": "Wacken, Hellfest y Sweden Rock por dentro"
+        },
+        {
+          "name": "Especial Death Metal",
+          "description": "Reportajes con Massacre, Death To All y Septicflesh"
+        },
+        {
+          "name": "Ghost",
+          "description": "Reportaje exclusivo con el hombre detrás de Papa Emeritus"
+        },
+        {
+          "name": "Pallbearer",
+          "description": "Entrevista exclusiva"
+        }
+      ],
+      "sections": {
+        "top_ten": "Las 10 peores regrabaciones",
+        "poster": "Black Label Society en Bs As",
+        "painting_blood": {
+          "album": "Blessed Black Wings",
+          "artist": "High On Fire",
+          "cover_artist": "Arik Roper"
+        },
+        "desde_el_pogo": [
+          "Horcas"
+        ],
+        "historia_del_rock": {
+          "chapter": 68,
+          "year": 2004,
+          "part": 3
+        },
+        "sobrevivientes_del_rock": "Pato Larralde de Sauron y Los Antiguos"
+      },
+      "other": "Y además, las reviews, el Jeds Files, la columna de Gloria Cavalera, Puño, Scream For Me y más!"
+    }
+  },
+  {
+    "number": 83,
+    "title": "Motörhead: Bastardos con gloria",
+    "is_subscription_gift": true,
+    "content": {
+      "main": [
+        {
+          "name": "Motörhead",
+          "description": "<ul><li>¡¿Qué pasa con Lemmy?! ¿Qué le depara el futuro a Motörhead?</li><li>Reportaje Exclusivo con Fast Eddie Clarke</li><li>Adelanto de la autobiografía de Lemmy, próxima a editarse por Jedbangers.</li></ul>"
+        }
+      ],
+      "featured": [
+        {
+          "name": "Especial Black",
+          "description": "Reportajes con Cradle of Filth, Wolves In The Throne Room y Oranssi Pazuzu."
+        },
+        {
+          "name": "Especial Doom",
+          "description": "Reportajes con Procession, Age Of Taurus y Below."
+        },
+        {
+          "name": "Especial Stoner",
+          "description": "Reportajes con Truckfighters, John García (ex-Kyuss) y Poseidótica."
+        },
+        {
+          "name": "Patán",
+          "description": "Reportaje."
+        },
+        {
+          "name": "The Dagger",
+          "description": "Nota con la nueva banda de Fred Estby."
+        },
+        {
+          "name": "Vintersorg",
+          "description": "Reportaje."
+        }
+      ],
+      "sections": {
+        "top_ten": "Los 10 discos nacionales más arriesgados.",
+        "gracias_por_la_magia": {
+          "album": "Welcome To Hell",
+          "artist": "Venom",
+          "year": 1981,
+          "label": "Neat Records",
+          "description": "Reportaje doble!"
+        },
+        "poster": "Arch Enemy 2014",
+        "painting_blood": {
+          "album": "Dark Roots Of Earth",
+          "artist": "Testament",
+          "cover_artist": "Eliran Kantor"
+        },
+        "desde_el_pogo": [
+          "Malicia",
+          "Tyr",
+          "Korpiklaani"
+        ],
+        "historia_del_rock": {
+          "chapter": 67,
+          "year": 2004,
+          "part": 2
+        },
+        "main_album_review": {
+          "artist": "Mastodon",
+          "album": "Once More 'Round the Sun"
+        }
+      },
+      "other": "Puño, el Copetín de Astilla, el Jeds Files, la columna de Gloria Cavalera, las reviews, el Scream For Me y más!"
+    }
+  },
+  {
+    "number": 82,
+    "title": "Damas de Hierro",
+    "is_subscription_gift": true,
+    "content": {
+      "main": [
+        {
+          "name": "Tarja Turunen",
+          "description": "La ex Nightwish nos abrió la puerta de su hogar y aprovechamos la ocasión para un extenso reportaje."
+        },
+        {
+          "name": "Arch Enemy",
+          "description": "Alissa White-Gluz & Mike Amott hablaron con Jedbangers sobre la llegada de la nueva vocalista, el nuevo disco y los planes de la banda."
+        },
+        {
+          "name": "Epica",
+          "description": "Exclusiva con Simone Simons."
+        },
+        {
+          "name": "Anneke Van Giersbergen & Danny Cavanagh",
+          "description": "Ambos musicos hablaron en su paso por Buenos Aires."
+        }
+      ],
+      "featured": [
+        {
+          "name": "Brasil 2014",
+          "description": "El ruso Verea analiza una nueva copa del mundo."
+        },
+        {
+          "name": "Monster Magnet",
+          "description": "Dave Wyndorf y un reportaje como nunca leíste (5 páginas)."
+        },
+        {
+          "name": "Nirvana",
+          "description": "A los 25 años de \"Bleach\", habla Chad Channing, batero del disco."
+        }
+      ],
+      "sections": {
+        "sobrevivientes_del_rock": "Eric Wagner, ex-Trouble y actual The Skull",
+        "poster": "De La Tierra en vivo",
+        "desde_el_pogo": [
+          "Amon Amarth",
+          "Children of Bodom",
+          "Therion",
+          "Warcry",
+          "De La Tierra",
+          "Picture/Grim Reaper",
+          "ReVamp"
+        ],
+        "main_album_review": [
+          {
+            "artist": "Down",
+            "album": "Down IV - Part II"
+          },
+          {
+            "artist": "Crowbar",
+            "album": "Symmetry In Black"
+          },
+          {
+            "artist": "Eyehategod",
+            "album": "Eyehategod"
+          }
+        ],
+        "historia_del_rock": {
+          "chapter": 66,
+          "year": 2004,
+          "part": 1
+        },
+        "painting_blood": {
+          "album": "Emperor's Return",
+          "artist": "Celtic Frost",
+          "cover_artist": "Phil Lawrence"
+        }
+      },
+      "other": "Más de 30 Reviews, incluyendo <strong>Down</strong>, <strong>Crowbar</strong>, <strong>Eyehategod</strong>, <strong>Prong</strong>, <strong>Deep Purple</strong>, <strong>Devin Townsend</strong>, <strong>Epica</strong>, <strong>Floor</strong>, <strong>Fu Manchu</strong> y más!"
+    }
+  },
+  {
+    "number": 81,
+    "title": "Temporada de Recitales",
+    "is_subscription_gift": true,
+    "content": {
+      "main": [
+        {
+          "name": "Megadeth",
+          "description": "Megadeth volvió a Buenos Aires y estuvimos en los shows de la banda de Mustaine para traerte las crónicas. Además, hablamos con David Ellefson sobre los días de “Youthanasia”, el presente del grupo."
+        },
+        {
+          "name": "Soundgarden",
+          "description": "La banda de Cornell llegó por primera vez a Buenos Aires y la cobertura del show, junto a un reportaje con Kim Thayil, es algo de lo que podés leer en este número. "
+        },
+        {
+          "name": "Guns N Roses",
+          "description": "Cobertura del Show de Ferro"
+        },
+        {
+          "name": "Nine Inch Nails",
+          "description": "Cobertura del show en Lollapalooza + 20 años de The Downward Spiral."
+        }
+      ],
+      "featured": [
+        {
+          "name": "Especial Thrash",
+          "description": "Reportaje y cobertura del show de Havok en Asbury, habla Spice de Kayser y nota con Lost Society."
+        },
+        {
+          "name": "Especial Rock ocultista",
+          "description": "Informe sobre este género que además de tener de aliado a Satanás tiene la particularidad de contar con una cantidad interesante de bandas lideradas por mujeres cantantes. Jedbangers entabló conexión con The Oath, los legendarios Coven, Jex Thoth y Mount Salem para ponerte al tanto de esta movida."
+        },
+        {
+          "name": "Plan 4",
+          "description": "Reportaje con Canario."
+        },
+        {
+          "name": "Tribulation",
+          "description": "Habla Adam Zaars"
+        },
+        {
+          "name": "Ulcerate",
+          "description": "Reportaje exclusivo."
+        }
+      ],
+      "sections": {
+        "gracias_por_la_magia": {
+          "album": "Demolición",
+          "artist": "Bloke",
+          "year": 1984,
+          "label": "Umbral Records",
+          "description": "Festejamos los 30 años de \"Demolición\" de Bloke con un Gracias por la Magia imperdible."
+        },
+        "poster": "H.I.M. en Buenos Aires",
+        "desde_el_pogo": [
+          "Pentagram",
+          "H.I.M",
+          "Paradise Lost"
+        ],
+        "historia_del_rock": {
+          "chapter": 65,
+          "year": 2003,
+          "part": 4
+        },
+        "painting_blood": {
+          "album": "Painkiller",
+          "artist": "Judas Priest",
+          "cover_artist": "Mark Wilkinson"
+        },
+        "main_album_review": {
+          "artist": "Ronnie James Dio Tribute",
+          "album": "This Is Your Life"
+        }
+      },
+      "other": "Puño, el Copetín de Astilla, el Jeds Files, la columna de Gloria Cavalera, las reviews, el Scream For Me y más!"
+    }
+  },
+  {
+    "number": 80,
+    "title": "Metallica en La Plata",
+    "is_subscription_gift": true,
+    "content": {
+      "main": [
+        {
+          "name": "Metallica",
+          "description": "7 paginas con los 2 shows de La Plata + la historia detrás de cada una de las canciones tocadas en esas 2 noches."
+        }
+      ],
+      "featured": [
+        {
+          "name": "Pantera",
+          "description": "Homenaje por el 20° aniversario de Far Beyond Driven."
+        },
+        {
+          "name": "Killer Be Killed",
+          "description": "Habla Greg Puciato"
+        },
+        {
+          "name": "Tano Marciello",
+          "description": "Reportaje"
+        },
+        {
+          "name": "Tren Loco",
+          "description": "Entrevista"
+        },
+        {
+          "name": "Black Star Riders",
+          "description": "Entrevista"
+        },
+        {
+          "name": "Sick Porky",
+          "description": "Entrevista"
+        },
+        {
+          "name": "Apocalyptica",
+          "description": "Entrevista "
+        }
+      ],
+      "sections": {
+        "gracias_por_la_magia": {
+          "album": "Troublegum",
+          "artist": "Therapy?",
+          "year": 1994,
+          "label": "A&M Records",
+          "description": "Doble reportaje de este clásico de culto de los '90s."
+        },
+        "poster": "Avenged Sevenfold en el Luna Park",
+        "painting_blood": {
+          "album": "The Art Of Partying",
+          "artist": "Municipal Waste",
+          "cover_artist": "Andrei Bouzikov"
+        },
+        "desde_el_pogo": [
+          "Avenged Sevenfold",
+          "Sonata Arctica"
+        ],
+        "historia_del_rock": {
+          "chapter": 64,
+          "year": 2003,
+          "part": 3
+        },
+        "main_album_review": [
+          {
+            "artist": "Sonata Arctica",
+            "album": "Pariah's Child"
+          },
+          {
+            "artist": "Gamma Ray",
+            "album": "Empire Of The Undead"
+          }
+        ]
+      },
+      "other": "Puño, el Copetín de Astilla, el Jeds Files, la columna de Gloria Cavalera, las reviews, el Scream For Me y más!"
+    }
+  },
+  {
+    "number": 79,
+    "title": "20º Aniversario de Víctimas del Vaciamiento",
+    "content": {
+      "main": [
+        {
+          "name": "Hermética",
+          "description": "11 páginas con data CANDENTE, con reportajes a Tano Romano, Pato Strunz y la gente que hizo el disco (productores, ingenieros de sonido, la gente a cargo del arte de tapa, etc). Y ADEMAS: reportaje INCREIBLE a Ricardo Iorio hecho en 1994, a pocas semanas de la salida del disco. También te contamos la historia detrás de la portada de “Victimas…” y te mostramos las 2 tapas que no fueron."
+        }
+      ],
+      "featured": [
+        {
+          "name": "De La Tierra",
+          "description": "Hablamos con los 4 integrantes de este supergrupo"
+        },
+        {
+          "name": "Los 15 discos más esperados de 2014",
+          "description": "Desde Tool a Machine Head, desde Judas Priest a Black Label Society, pasando por Slayer e Immortal, te contamos como vienen los próximos discos más esperados para este año."
+        },
+        {
+          "name": "Deafheaven",
+          "description": "¿La nueva esperanza del Black?"
+        },
+        {
+          "name": "Turbonegro",
+          "description": "Entrevista con Hank Von Helvete, el ex vocalista de Turbonegro."
+        },
+        {
+          "name": "Pentagram (Chile)",
+          "description": "Habla Anton"
+        },
+        {
+          "name": "Encuesta 2013",
+          "description": "Un clásico: ustedes votan y nosotros recontamos."
+        }
+      ],
+      "sections": {
+        "poster": "Gojira",
+        "painting_blood": {
+          "artist": "Enslaved"
+        },
+        "desde_el_pogo": [
+          "Dark Tranquility",
+          "Kamelot",
+          "Kreator",
+          "Steve Vai",
+          "Gamma Ray",
+          "Helloween",
+          "Bad Religion",
+          "Nile",
+          "Transatlantic"
+        ],
+        "historia_del_rock": {
+          "chapter": 63,
+          "year": 2003,
+          "part": 2
+        },
+        "main_album_review": {
+          "artist": "Behemoth",
+          "album": "The Satanist"
+        }
+      },
+      "other": "Puño, el Copetín de Astilla, el Jeds Files, la columna de Gloria Cavalera, las reviews, el Scream For Me y más!"
+    }
+  },
+  {
+    "number": 78,
+    "title": "AC/DC y el largo camino a la cima",
+    "content": {
+      "main": [
+        {
+          "name": "AC/DC",
+          "description": "40º Aniversario<ul><li>Informe exclusivo: el nacimiento de AC/DC.</li><li>Nota 1977: Angus Young & Bon Scott</li><li>Nota 1983: Angus Young</li><li>Extracto del libro de Mark Evans, bajista de AC/DC</li><li>Repasamos la discografía</li></ul>"
+        }
+      ],
+      "featured": [
+        {
+          "name": "Mercyful Fate",
+          "description": "30 años de Melissa con M. Denner y H. Shermann"
+        },
+        {
+          "name": "Horcas",
+          "description": "Entrevista exclusiva"
+        },
+        {
+          "name": "Lo mejor de 2013",
+          "description": "Cada integrante del staff de Jedbangers selecciona sus 10 discos del año."
+        },
+        {
+          "name": "Meshuggah",
+          "description": "Entrevista exclusiva"
+        },
+        {
+          "name": "Epica",
+          "description": "Entrevista exclusiva"
+        },
+        {
+          "name": "Vibrion",
+          "description": "Entrevista exclusiva"
+        },
+        {
+          "name": "Ihsahn",
+          "description": "Entrevista exclusiva"
+        },
+        {
+          "name": "Devil",
+          "description": "Entrevista exclusiva"
+        }
+      ],
+      "sections": {
+        "poster": "Lo mejor del año dibujado por Dufour!",
+        "desde_la_tumba": {
+          "description": "En el capítulo final, Dan responde las preguntas de los lectores."
+        },
+        "desde_el_pogo": [
+          "Off!",
+          "Malmsteen"
+        ],
+        "historia_del_rock": {
+          "chapter": 62,
+          "year": 2003,
+          "part": 1
+        },
+        "sobrevivientes_del_rock": "Mina Caputo (ex Keith Caputo)",
+        "main_album_review": {
+          "artist": "Motörhead",
+          "album": "Aftershock"
+        }
+      },
+      "other": "Puño, el Copetín de Astilla, el Jeds Files, la columna de Gloria Cavalera, las reviews, el Scream For Me y más!"
+    }
+  },
+  {
+    "number": 77,
+    "title": "Exceso Sónico",
+    "content": {
+      "main": [
+        {
+          "name": "Black Sabbath",
+          "description": "Black Sabbath en La Plata + Adelanto Libro de Iommi + Poster en vivo"
+        },
+        {
+          "name": "Megadeth",
+          "description": "Megadeth en La Plata + Nota con Dave Mustaine"
+        },
+        {
+          "name": "Alice in Chains",
+          "description": "Alice en el Luna + Nota con Jerry Cantrell"
+        },
+        {
+          "name": "Korn ",
+          "description": "Cobertura en Malvinas + Nota con Head y Munky"
+        }
+      ],
+      "featured": [
+        {
+          "name": "Anathema",
+          "description": "Habla Danny Cavanagh"
+        },
+        {
+          "name": "Soulfly",
+          "description": "Habla Max Cavalera"
+        },
+        {
+          "name": "Sepultura",
+          "description": "Habla Andreas Kisser"
+        },
+        {
+          "name": "Carajo",
+          "description": "Hablan Corvata, Andres y Tery"
+        },
+        {
+          "name": "OFF!",
+          "description": "Habla Keith Morris"
+        },
+        {
+          "name": "Trouble",
+          "description": "Hablan Kyle Thomas y Bruce Franklin"
+        },
+        {
+          "name": "Cobra Sarli",
+          "description": "Entrevista"
+        }
+      ],
+      "sections": {
+        "poster": "Black Sabbath en vivo en Bs As",
+        "desde_la_tumba": {
+          "artist": "Hypocrisy",
+          "album": "Penetralia",
+          "description": "Dan Seagrave cuenta como hizo la portada de Hypocrisy \"Penetralia\""
+        },
+        "desde_el_pogo": [
+          "Whitesnake",
+          "Limp Bizkit"
+        ],
+        "historia_del_rock": {
+          "chapter": 61,
+          "year": 2002,
+          "part": 5
+        },
+        "main_album_review": {
+          "artist": "Korn",
+          "album": "The Paradigm Shift"
+        }
+      },
+      "other": "Puño, el Copetín de Astilla, el Jeds Files, la columna de Gloria Cavalera, las reviews, el Scream For Me y más!"
+    }
+  },
+  {
+    "number": 76,
+    "title": "Iron Maiden: la batalla de River",
+    "content": {
+      "main": [
+        {
+          "name": "Iron Maiden",
+          "description": "Cobertura Especial + Entrevista Steve Harris"
+        },
+        {
+          "name": "Ghost",
+          "description": "Cobertura + Entrevista"
+        },
+        {
+          "name": "Slayer",
+          "description": "Cobertura show en River"
+        }
+      ],
+      "featured": [
+        {
+          "name": "Vista Chino",
+          "description": "Hablan John Garcia y Brant Bjork"
+        },
+        {
+          "name": "Devildriver",
+          "description": "Entrevista con Dez Fafara"
+        },
+        {
+          "name": "Buenos Aires Post Hardcore",
+          "description": "Deny, Melian y Coralies"
+        },
+        {
+          "name": "Xasthur",
+          "description": "Entrevista "
+        }
+      ],
+      "sections": {
+        "gracias_por_la_magia": {
+          "album": "Draconian Times",
+          "artist": "Paradise Lost",
+          "year": 1995,
+          "label": "Sony BMG",
+          "description": "Gregor y Nick cuentan como se hizo este clásico."
+        },
+        "poster": "Carcass",
+        "desde_la_tumba": {
+          "artist": "Malevolent Creation",
+          "album": "The Ten Commandments",
+          "description": "Dan Seagrave cuenta como hizo la portada de \"The Ten Commandments\" de Malevolent Creation"
+        },
+        "desde_el_pogo": [
+          "Helker",
+          "Plan 4",
+          "Rob Zombie",
+          "Living Colour"
+        ],
+        "historia_del_rock": {
+          "chapter": 60,
+          "year": 2002,
+          "part": 4
+        },
+        "main_album_review": {
+          "artist": "Carcass",
+          "album": "Surgical Steel"
+        }
+      },
+      "other": "Puño, el Copetín de Astilla, el Jeds Files, la columna de Gloria Cavalera, las reviews, el Scream For Me y más!"
+    }
+  },
+  {
+    "number": 75,
+    "title": "Metallica: los 10 hitos",
+    "content": {
+      "main": [
+        {
+          "name": "Metallica",
+          "description": "Los 30 años de “Kill ‘Em All” y los 25 de “…And Justice for All” nos hicieron reflexionar… ¿cuáles son los 10 grandes hitos en la historia de Metallica? A través de 13 páginas de notas, declaraciones e investigación a pleno, logramos encontrar esos 10 momentos claves en la carrera de una banda definitoria. Hecho por y para fans."
+        }
+      ],
+      "featured": [
+        {
+          "name": "Kreator",
+          "description": "Visiones de Muerte"
+        },
+        {
+          "name": "Dream Theater",
+          "description": "Exclusiva con Petrucci"
+        },
+        {
+          "name": "Alter Bridge",
+          "description": "Habla Myles Kennedy"
+        }
+      ],
+      "sections": {
+        "poster": "Vista Chino",
+        "desde_la_tumba": {
+          "artist": "",
+          "album": "",
+          "description": "Dan Seagrave cuenta como hizo"
+        },
+        "desde_el_pogo": [
+          "Possessed",
+          "Soulfly",
+          "Angra",
+          "Metal Para Todos 6",
+          "Serpentor",
+          "Corrosion of Conformity",
+          "Violator"
+        ],
+        "historia_del_rock": {
+          "chapter": 59,
+          "year": 2002,
+          "part": 3
+        },
+        "main_album_review": {
+          "artist": "Vista Chino",
+          "album": "Peace"
+        }
+      },
+      "other": "Puño, el Copetín de Astilla, el Jeds Files, la columna de Gloria Cavalera, las reviews, el Scream For Me y más!"
+    }
+  },
+  {
+    "number": 74,
+    "title": "Los gloriosos días de la decadencia",
+    "content": {
+      "main": [
+        {
+          "name": "Motley Crue",
+          "description": "30 años de \"Shout At the Devil\" Nota histórica hecha en 1983, en los años de la gloriosa decadencia. Hablan Nikki Sixx, Vince Neil y Mick Mars. "
+        }
+      ],
+      "featured": [
+        {
+          "name": "Ensiferum",
+          "description": "Entrevista"
+        },
+        {
+          "name": "Helker",
+          "description": "Entrevista"
+        },
+        {
+          "name": "Fughu",
+          "description": "Entrevista"
+        },
+        {
+          "name": "Marty Friedman",
+          "description": "Entrevista"
+        },
+        {
+          "name": "Dead Lord",
+          "description": "Entrevista"
+        },
+        {
+          "name": "Killswitch Engage",
+          "description": "Entrevista"
+        }
+      ],
+      "sections": {
+        "gracias_por_la_magia": {
+          "album": "The Principle of Evil Made Flesh",
+          "artist": "Cradle of Filth",
+          "year": 1994,
+          "label": "Cacophonous",
+          "description": "Paul Allender revela cómo se hizo esta joya del Black Metal."
+        },
+        "poster": "Children of Bodom",
+        "desde_la_tumba": {
+          "artist": "Entombed",
+          "album": "Clandestine",
+          "description": "Dan Seagrave cuenta como hizo la portada de Clandestine de Entombed"
+        },
+        "desde_el_pogo": [
+          "Avantasia",
+          "Cannibal Corpse",
+          "Tool"
+        ],
+        "historia_del_rock": {
+          "chapter": 58,
+          "year": 2002,
+          "part": 2
+        },
+        "main_album_review": {
+          "artist": "Alice in Chains",
+          "album": "The Devil Put Dinosaurs Here"
+        }
+      },
+      "other": "Puño, el Copetín de Astilla, el Jeds Files, la columna de Gloria Cavalera, las reviews, el Scream For Me y más!"
+    }
+  },
+  {
+    "number": 73,
+    "title": "Obedecé a los maestros!",
+    "content": {
+      "main": [
+        {
+          "name": "Black Sabbath",
+          "description": "Especial Black Sabbath y el lanzamiento de \"13\" - 10 Páginas!!!"
+        }
+      ],
+      "featured": [
+        {
+          "name": "Mike Patton",
+          "description": "Entrevista"
+        },
+        {
+          "name": "Violator",
+          "description": "Entrevista"
+        },
+        {
+          "name": "Sunn O)))",
+          "description": "Entrevista"
+        },
+        {
+          "name": "Metal Para Todos",
+          "description": "Preview del Festival"
+        },
+        {
+          "name": "Eternal Grave",
+          "description": "Reportaje"
+        }
+      ],
+      "sections": {
+        "poster": "Iorio & Zamarbide",
+        "desde_la_tumba": {
+          "artist": "Suffocation",
+          "album": "Effigy Of The Forgotten",
+          "description": "Dan Seagrave cuenta como hizo la portada de \"Effigy of the Forgotten\" de Suffocation"
+        },
+        "desde_el_pogo": [
+          "Almafuerte en All Boys",
+          "Zamarbide Homenaje Luchando por el Metal",
+          "Annihilator",
+          "Ensiferum",
+          "Halestorm",
+          "Stratovarius",
+          "Marky Ramone",
+          "Punk Rock Bowling Fest"
+        ],
+        "historia_del_rock": {
+          "chapter": 57,
+          "year": 2002,
+          "part": 1
+        },
+        "main_album_review": {
+          "artist": "Megadeth",
+          "album": "Super Collider"
+        }
+      },
+      "other": "Puño, el Copetín de Astilla, el Jeds Files, la columna de Gloria Cavalera, las reviews, el Scream For Me y más!"
+    }
+  },
+  {
+    "number": 72,
+    "title": "Alice in Chains: Los últimos de su especie",
+    "content": {
+      "main": [
+        {
+          "name": "Alice in Chains",
+          "description": "Jerry Cantrell cuenta todos los pormenores de “The Devil Put Dinosaurs Here”, habla sobre sus días junto a Layne y explica su visión musical."
+        }
+      ],
+      "featured": [
+        {
+          "name": "Jeff Hanneman (Slayer)",
+          "description": "Un homenaje al fallecido thrasher"
+        },
+        {
+          "name": "Ghost",
+          "description": "Reportaje con el hombre detrás de la máscara."
+        },
+        {
+          "name": "Anthrax y Testament",
+          "description": "Estuvimos ahí, sobrevivimos a los decibeles y te lo contamos."
+        },
+        {
+          "name": "Black Sabbath",
+          "description": "Los vimos en Nueva Zelanda y te contamos como es el show. Además, un resumen de como viene “13” "
+        },
+        {
+          "name": "Enforcer",
+          "description": "Reportaje + cobertura"
+        },
+        {
+          "name": "Marky Ramone",
+          "description": "Entrevista exclusiva"
+        }
+      ],
+      "sections": {
+        "gracias_por_la_magia": {
+          "album": "Testimony of Ancients",
+          "artist": "Pestilence",
+          "year": 1991,
+          "label": "Roadrunner",
+          "description": "Doble reportaje!"
+        },
+        "desde_la_tumba": {
+          "album": "Testimony of Ancients",
+          "artist": "Pestilence",
+          "description": "Dan Seagrave cuenta como hizo la portada de Testimony of Ancients"
+        },
+        "desde_el_pogo": [
+          "Steven Wilson",
+          "Lacrimosa",
+          "Rata Blanca"
+        ],
+        "historia_del_rock": {
+          "chapter": 56,
+          "year": 2001,
+          "part": 4
+        },
+        "sobrevivientes_del_rock": "Adrian Outeda de Satan Dealers y ex NDI",
+        "main_album_review": {
+          "artist": "Deep Purple",
+          "album": "Now What?"
+        }
+      },
+      "other": "Puño, el Copetín de Astilla, el Jeds Files, la columna de Gloria Cavalera, las reviews, el Scream For Me y más!"
+    }
+  },
+  {
+    "number": 71,
+    "title": "Fabuloso Desastre!",
+    "content": {
+      "main": [
+        {
+          "name": "A Perfect Circle",
+          "description": "Entrevista + Cobertura"
+        },
+        {
+          "name": "Anthrax ",
+          "description": "Entrevista con Scott Ian"
+        },
+        {
+          "name": "Testament",
+          "description": "Entrevista con Chuck Billy y Eric Peterson"
+        },
+        {
+          "name": "Accept",
+          "description": "Los Lectores vs Wolf Hoffman + Cobertura"
+        },
+        {
+          "name": "Saxon",
+          "description": "Biff Byford + Cobertura"
+        },
+        {
+          "name": "Pearl jam",
+          "description": "Cobertura especial"
+        }
+      ],
+      "featured": [
+        {
+          "name": "Metal Fest 2013 ",
+          "description": "cobertura desde Chile"
+        }
+      ],
+      "sections": {
+        "poster": "Annihilator en Bs as",
+        "desde_la_tumba": {
+          "artist": "Nocturnus",
+          "album": "The Key",
+          "description": "Dan Seagrave cuenta como hizo la portada de The Key, el disco de Nocturnus."
+        },
+        "gracias_por_la_magia ": {
+          "album": "Kings of Metal",
+          "artist": "Manowar",
+          "year": 1988,
+          "label": "Atlantic Records",
+          "description": "Ross the Boss cuenta como se hizo este clásico de Manowar."
+        },
+        "desde_el_pogo": [
+          "Queens of the Stone Age",
+          "Carcass",
+          "Cradle of Filth",
+          "Tomahawk",
+          "Symphony X",
+          "Massacre (USA)",
+          "My Dying Bride",
+          "Bad Brains",
+          "Down"
+        ],
+        "historia_del_rock": {
+          "chapter": 55,
+          "year": 2001,
+          "part": 3
+        },
+        "main_album_review": {
+          "artist": "Ghost",
+          "album": "Infestissumam"
+        }
+      },
+      "other": "Puño, el Copetín de Astilla, el Jeds Files, la columna de Gloria Cavalera, las reviews, el Scream For Me y más!"
+    }
+  },
+  {
+    "number": 70,
+    "title": "Down: El pantano está encantador",
+    "content": {
+      "main": [
+        {
+          "name": "Down",
+          "description": "Entrevistas con Phil Anselmo y Pepper Keenan"
+        }
+      ],
+      "featured": [
+        {
+          "name": "Cradle of Filth",
+          "description": "Reportaje"
+        },
+        {
+          "name": "Volbeat",
+          "description": "Reportaje"
+        },
+        {
+          "name": "Porcupine Tree",
+          "description": "Reportaje"
+        },
+        {
+          "name": "Prong",
+          "description": "Reportaje"
+        },
+        {
+          "name": "Carcass",
+          "description": "Los Lectores vs Jeff Walker"
+        }
+      ],
+      "sections": {
+        "gracias_por_la_magia": {
+          "album": "Brave Muder Day",
+          "artist": "Katatonia",
+          "year": 1996,
+          "label": "Avantgarde Music",
+          "description": "Jonas y Fred cuentan como se hizo esta pieza de culto"
+        },
+        "poster": "Testament",
+        "desde_la_tumba": {
+          "artist": "Left Hand Path",
+          "album": "Entombed",
+          "description": "Dan Seagrave nos cuenta como hizo la portada de Left Path Hand de Entombed"
+        },
+        "desde_el_pogo": [
+          "Anneke",
+          "Lacuna Coil",
+          "Sonata Arctica",
+          "Turisas"
+        ],
+        "historia_del_rock": {
+          "chapter": 54,
+          "year": 2001,
+          "part": 2
+        },
+        "main_album_review": {
+          "artist": "Spiritual Beggars",
+          "album": "Earth Blues"
+        }
+      },
+      "other": "Puño, el Copetín de Astilla, el Jeds Files, la columna de Gloria Cavalera, las reviews, el Scream For Me y más!"
+    }
+  },
+  {
+    "number": 69,
+    "title": "V8: 30 aniversario \"Luchando por el Metal\"",
+    "content": {
+      "main": [
+        {
+          "name": "V8",
+          "description": "Hicimos 8 entrevistas y le dedicamos 10 páginas al aniversario del disco que fundó al Metal Argentino. Toda la data y las mejores anécdotas del período que va desde el día 1 de V8 hasta la salida de “Luchando por el Metal” con el certificado de calidad Jedbangers."
+        }
+      ],
+      "featured": [
+        {
+          "name": "Jason Newsted",
+          "description": "Extenso reportaje con el ex bajista de ya sabés quién..."
+        },
+        {
+          "name": "Encuesta 2012",
+          "description": "lo mejor, lo peor y lo que está en el medio"
+        },
+        {
+          "name": "Exodus",
+          "description": "Hablamos con Gary Holt en su paso por Rosario"
+        },
+        {
+          "name": "Stryper",
+          "description": "Michael Sweet cuenta como ser amarillo y negro pero nunca taxi."
+        },
+        {
+          "name": "Sonata Arctica",
+          "description": "Exclusiva con Tony y Henkka"
+        },
+        {
+          "name": "Hatebreed",
+          "description": "Exclusiva"
+        }
+      ],
+      "sections": {
+        "desde_la_tumba": {
+          "artist": "Morbid Angel",
+          "album": "Altar of Madness",
+          "description": "Dan cuenta como hizo la portada de este clásico"
+        },
+        "desde_el_pogo": [
+          "Paradise Lost",
+          "Stryper",
+          "Tankard",
+          "Eluveitie",
+          "Nightwish"
+        ],
+        "historia_del_rock": {
+          "chapter": 53,
+          "year": 2001,
+          "part": 1
+        },
+        "main_album_review": {
+          "artist": "Helloween",
+          "album": "Straight Out Of Hell"
+        }
+      },
+      "other": "El Jeds Files, las noticias, la columna de Gloria Cavalera, el Copetín de Astilla, Puño y más!"
+    }
+  },
+  {
+    "number": 68,
+    "title": "Zakk & Slash: manos a la obra",
+    "content": {
+      "main": [
+        {
+          "name": "Slash",
+          "description": "Reportaje Exclusivo"
+        },
+        {
+          "name": "Zakk Wylde",
+          "description": "vs los lectores de Jedbangers"
+        }
+      ],
+      "featured": [
+        {
+          "name": "Top 10 de 2012",
+          "description": "El Staff elige sus discos preferidos"
+        },
+        {
+          "name": "Arch Enemy",
+          "description": "Habla Mike Amott"
+        },
+        {
+          "name": "Paradise Lost",
+          "description": "Doble reportaje"
+        }
+      ],
+      "sections": {
+        "poster": "Almafuerte",
+        "gracias_por_la_magia": {
+          "artist": "Amorphis",
+          "album": "Elegy",
+          "year": 1996,
+          "label": "Relapse",
+          "description": "Una pieza de culto made in Finlandia."
+        },
+        "desde_el_pogo": [
+          "Kiss",
+          "Asspera",
+          "Extreme Fest",
+          "Edguy",
+          "Dinosaur Jr",
+          "Ripper Owens",
+          "Scott Weiland",
+          "Whiplash"
+        ],
+        "historia_del_rock": {
+          "chapter": 52,
+          "year": 2000,
+          "part": 4
+        },
+        "main_album_review": {
+          "artist": "Soundgarden",
+          "album": "King Animal"
+        }
+      },
+      "other": "El Jeds Files, las noticias, la columna de Gloria Cavalera, el Copetín de Astilla, Puño, el Scream for Me y más!"
+    }
+  },
+  {
+    "number": 67,
+    "title": "Maquinaria: Cobertura Especial",
+    "content": {
+      "main": [
+        {
+          "name": "Maquinaria",
+          "description": "Cobertura del Festival"
+        }
+      ],
+      "featured": [
+        {
+          "name": "Edguy",
+          "description": "Habla Tobias Sammeth"
+        },
+        {
+          "name": "Behemoth",
+          "description": "Mano a Mano con Nergal en Bs As"
+        },
+        {
+          "name": "Mastodon",
+          "description": "Reportaje con Bran Dailor"
+        },
+        {
+          "name": "Slayer",
+          "description": "Hablamos con Kerry king"
+        }
+      ],
+      "sections": {
+        "poster": "Stone Sour",
+        "desde_el_pogo": [
+          "Sepultura",
+          "linkin Park",
+          "G3",
+          "Metal Para Todos",
+          "Pennywise",
+          "Agnostic Front - H2o",
+          "Truckfighters",
+          "CjRamone",
+          "Marillion"
+        ],
+        "historia_del_rock": {
+          "chapter": 51,
+          "year": 2000,
+          "part": 3
+        },
+        "main_album_review": {
+          "artist": "Almafuerte",
+          "album": "Trillando La Fina"
+        }
+      },
+      "other": "El Jeds Files, las noticias, la columna de Gloria Cavalera, el Copetín de Astilla, Puño, el Scream for Me y más!"
+    }
+  },
+  {
+    "number": 66,
+    "title": "Megadeth: 20 Aniversario Countdown to Exctinction",
+    "content": {
+      "main": [
+        {
+          "name": "Megadeth",
+          "description": "MEGADETH – 20° ANIVERSARIO DE “COUNTDOWN TO EXTINCTION”El disco más exitoso de Megadeth cumplió 20 años y la banda de Mustaine vino a nuestro país para festejarlo. Por eso armamos un especial con entrevistas a Mustaine, Friedman y Ellefson actuales y de 1992 para entender mejor como se hizo “Countdown to Extinction”. Además, seguimos a Megadeth en todos sus shows de Bs As y Córdoba. 9 páginas para el recuerdo. "
+        }
+      ],
+      "featured": [
+        {
+          "name": "Tank",
+          "description": ""
+        },
+        {
+          "name": "Cj Ramone",
+          "description": ""
+        },
+        {
+          "name": "Enforcer",
+          "description": ""
+        },
+        {
+          "name": "Metallica",
+          "description": ""
+        }
+      ],
+      "sections": {
+        "poster": "Rob Zombie",
+        "gracias_por_la_magia": {
+          "artist": "Agnostic Front",
+          "album": "Cause for Alarm",
+          "year": 1986,
+          "label": "Combat Core",
+          "description": "Clásico del Hardcore"
+        },
+        "desde_el_pogo": [
+          "Trivium",
+          "Europe",
+          "Die Toten Hosen",
+          "Coal Chamber",
+          "Epica",
+          "Pain of salvation",
+          "Giardino/Turner"
+        ],
+        "historia_del_rock": {
+          "chapter": 50,
+          "year": 2000,
+          "part": 2
+        },
+        "main_album_review": {
+          "artist": "Steve Harris",
+          "album": "British Lion"
+        }
+      },
+      "other": "El Jeds Files, las noticias, la columna de Gloria Cavalera, el Copetín de Astilla, Puño, el Scream for Me y más!"
+    }
+  },
+  {
+    "number": 65,
+    "title": "Deep Purple: La Era Gloriosa",
+    "content": {
+      "main": [
+        {
+          "name": "Deep Purple",
+          "description": "Con la excusa de los 40 años de \"Machine Head\", recuperamos entrevistas perdidas a Ritchie Blackore e Ian Gillan, ambas realizadas en 1977, cuando ambos músicos ya no formaban parte del grupo. Además, hablamos con Roger Glover. Y con estos tres músicos, revivimos los años de oro -en los que surgieron \"In Rock\", \"Fireball\" y \"Machine Head\"- de una de las bandas mas importantes de la historia del rock pesado."
+        }
+      ],
+      "featured": [
+        {
+          "name": "Trivium",
+          "description": "Nota exclusiva"
+        },
+        {
+          "name": "Die Toten Hosen",
+          "description": "Habla Campino"
+        },
+        {
+          "name": "Informe: Vinilo",
+          "description": "Especial: El regreso de un formato dado por muerto."
+        },
+        {
+          "name": "Europe",
+          "description": "Joey Tempest"
+        }
+      ],
+      "sections": {
+        "poster": "In Flames",
+        "gracias_por_la_magia": {
+          "artist": "Pentagram",
+          "album": "Pentagram",
+          "year": 1985,
+          "label": "Pentagram",
+          "description": "Tan clásico, que se editó dos veces."
+        },
+        "desde_el_pogo": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "historia_del_rock": {
+          "chapter": 49,
+          "year": 2000,
+          "part": 1
+        },
+        "main_album_review": {
+          "artist": "Testament",
+          "album": "Dark Roots Of Earth"
+        }
+      },
+      "other": "El Jeds Files, las noticias, la columna de Gloria Cavalera, el Copetín de Astilla, Puño, el Scream for Me y más!"
+    }
+  },
+  {
+    "number": 64,
+    "title": "Thrash Hasta la Muerte",
+    "content": {
+      "main": [
+        {
+          "name": "Testament",
+          "description": "Exclusiva con: Chuck "
+        },
+        {
+          "name": "Overkill",
+          "description": "Exclusiva con: Bobby"
+        },
+        {
+          "name": "Kreator",
+          "description": "Exclusiva con: Mille"
+        }
+      ],
+      "featured": [
+        {
+          "name": "Dragonforce",
+          "description": "Reportaje"
+        },
+        {
+          "name": "Jon Lord",
+          "description": "Homenaje"
+        },
+        {
+          "name": "Darkthrone",
+          "description": "Habla Fenriz!"
+        },
+        {
+          "name": "At The Gates",
+          "description": "Tompa en exclusiva"
+        }
+      ],
+      "sections": {
+        "poster": "At The Gates en Bs as",
+        "desde_el_pogo": [
+          "Plan 4",
+          "Vader",
+          "Rhapsody of Fire",
+          "The Agonist",
+          "NOFX"
+        ],
+        "historia_del_rock": {
+          "chapter": 48,
+          "year": 1999,
+          "part": 4
+        },
+        "sobrevivientes_del_rock": "Jeff Becerra",
+        "main_album_review": {
+          "artist": "Baroness",
+          "album": "Yellow and Green"
+        }
+      },
+      "other": "El Jeds Files, las noticias, la columna de Gloria Cavalera, el Copetín de Astilla, Puño, el Scream for Me y más!"
+    }
+  }
+]

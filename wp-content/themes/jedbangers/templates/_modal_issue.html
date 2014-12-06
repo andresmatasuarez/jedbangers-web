@@ -1,0 +1,164 @@
+<div class="modal-header">
+  <h3 class="modal-title">
+    Jedbangers #{{ issue.number }}
+    <span class="glyphicon glyphicon-remove" ng-click="$dismiss('close')"></span>
+  </h3>
+</div>
+
+<div class="modal-body" style="overflow: hidden;">
+
+  <div class="col-md-4">
+    <img ng-src="{{ _.first(_.flatten([ issue.cover ])) }}" width="100%" height="400" style="border-radius: 5px;"/>
+  </div>
+
+  <div class="col-md-8" style="padding-left: 0;">
+
+    <div class="container-fluid" style="padding: 0;">
+
+      <div class="col-md-8" style="padding-left: 0;">
+
+        <div style="font-family: 'Oswald', sans-serif;">
+          <span class="jedbangers">
+            <!-- <span class="label label-default jedbangers" style="font-weight: normal;"></span> -->
+            jedbangers #{{ issue.number }}
+          </span>
+          {{ Date.parse(issue.date) | date : 'MMMM | yyyy' }}
+        </div>
+
+        <h2 style="font-family: 'Oswald', sans-serif; margin-top: 7px; margin-bottom: 20px;">
+          {{ issue.title }}
+        </h2>
+
+        <div style="margin-bottom: 20px;">
+          <h4 class="section" style="padding-bottom: 5px; border-bottom: 1px solid #ddd;">Notas de tapa</h4>
+          <ul style="padding-left: 25px; ">
+            <li ng-repeat="article in issue.content.main">
+              <span style="font-family: 'Oswald', sans-serif; font-weight: bold;">{{ article.name }}</span>
+              <span style="font-size: 85%;" ng-bind-html="article.description"></span>
+            </li>
+          </ul>
+        </div>
+
+        <div style="margin-bottom: 20px;">
+          <h4 class="section" style="padding-bottom: 5px; border-bottom: 1px solid #ddd;">Además, en este número...</h4>
+          <ul style="padding-left: 25px; ">
+            <li ng-repeat="article in issue.content.featured">
+              <span style="font-family: 'Oswald', sans-serif; font-weight: bold;">{{ article.name }}</span>
+              <span style="font-size: 85%;">{{ article.description }}</span>
+            </li>
+          </ul>
+        </div>
+
+        <div style="margin-bottom: 20px;">
+          <h4 class="section" style="padding-bottom: 5px; border-bottom: 1px solid #ddd;">Y como siempre...</h4>
+          <div style="font-size: 85%;" ng-bind-html="issue.content.other"></div>
+        </div>
+
+      </div>
+
+      <div class="col-md-4" style="padding: 0;">
+        <div style="margin-bottom: 20px;">
+          <h4 class="section" style="padding-bottom: 5px; border-bottom: 1px solid #ddd;">Secciones</h4>
+          <ul style="padding-left: 0; list-style-type: none;">
+            <li ng-repeat="(section, content) in issue.content.sections" style="margin-bottom: 10px;">
+              <div class="section">{{ section | sectionLabel }}</div>
+              <div style="font-size: 85%;" ng-switch="section">
+
+                <div ng-switch-when="desde_el_pogo">
+                  {{ content.join(', ') }}
+                </div>
+
+                <div ng-switch-when="gracias_por_la_magia">
+                  <div class="container-fluid" style="padding: 0;">
+                    <div class="col-md-4" style="padding: 0;">
+                      <img style="border-radius: 3px;" ng-src="{{ content.cover }}" width="100%" />
+                    </div>
+                    <div class="col-md-8" style="padding: 0 0 0 5px;">
+                      <div>
+                        <strong style="font-family: 'Oswald', sans-serif;">{{ content.album }}</strong>
+                        <br/>
+                        <i style="font-family: 'Oswald', sans-serif;">{{ content.artist }}</i>
+                        <br/>
+                        <i style="font-family: 'Oswald', sans-serif;">{{ content.year }} - {{ content.label }}</i>
+                        <br/>
+                      </div>
+                    </div>
+                  </div>
+                  <div style="padding-top: 5px;">
+                    {{ content.description }}
+                  </div>
+                </div>
+
+                <div ng-switch-when="main_album_review">
+                  <div ng-repeat="review in _.flatten([ content ])" class="container-fluid" style="padding: 0; margin-bottom: 5px;">
+                    <div class="col-md-3" style="padding: 0;">
+                      <img style="border-radius: 3px;" ng-src="{{ review.cover }}" width="100%" />
+                    </div>
+                    <div class="col-md-9" style="padding: 0 0 0 5px; font-family: 'Oswald', sans-serif;">
+                      <strong>{{ review.album }}</strong>
+                      <br/>
+                      <i>{{ review.artist }}</i>
+                    </div>
+                  </div>
+                </div>
+
+                <div ng-switch-when="top_ten">
+                  {{ content }}
+                </div>
+
+                <div ng-switch-when="poster">
+                  {{ content }}
+                </div>
+
+                <div ng-switch-when="sobrevivientes_del_rock">
+                  {{ content }}
+                </div>
+
+                <div ng-switch-when="painting_blood">
+                  <div class="container-fluid" style="padding: 0;">
+                    <div class="col-md-4" style="padding: 0;">
+                      <img style="border-radius: 3px;" ng-src="{{ content.cover }}" width="100%" />
+                    </div>
+                    <div class="col-md-8" style="padding: 0 0 0 5px;">
+                      <strong style="font-family: 'Oswald', sans-serif;">{{ content.album }}</strong>
+                      <br/>
+                      <i style="font-family: 'Oswald', sans-serif;">{{ content.artist }}</i>
+                      <br/>
+                      por {{ content.cover_artist }}
+                    </div>
+                  </div>
+                </div>
+
+                <div ng-switch-when="desde_la_tumba">
+                  <div class="container-fluid" style="padding: 0;">
+                    <div class="col-md-4" style="padding: 0;" ng-if="!_.isUndefined(content.album)">
+                      <img style="border-radius: 3px;" ng-src="{{ content.cover }}" width="100%" />
+                    </div>
+                    <div class="col-md-8" style="padding: 0 0 0 5px;" ng-if="!_.isUndefined(content.album)">
+                      <strong style="font-family: 'Oswald', sans-serif;">{{ content.album }}</strong>
+                      <br/>
+                      <i style="font-family: 'Oswald', sans-serif;">{{ content.artist }}</i>
+                      <br/>
+                      {{ content.description }}
+                    </div>
+                    <div ng-if="_.isUndefined(content.album)">
+                      {{ content.description }}
+                    </div>
+                  </div>
+                </div>
+
+                <div ng-switch-when="historia_del_rock">
+                  Año {{ content.year }}, capítulo {{ content.chapter }}, parte {{ content.part | integerToRoman }}
+                </div>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+    </div>
+
+
+  </div>
+
+</div>

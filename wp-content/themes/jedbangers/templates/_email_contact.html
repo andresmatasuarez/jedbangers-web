@@ -1,0 +1,54 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Contacto | {{ full_name }}</title>
+</head>
+<body>
+<table cellpadding="0" cellspacing="0" border="0"
+  style="font-family: Georgia; margin: 0 auto; padding: 0; width: 600px !important; line-height: 100% !important; background: #1d1d1d; border: 1px solid #606060; border-radius: 5px; color: #f0f0f0;">
+
+<tr style="background: url('../Downloads/logo-web.png');">
+  <td>
+    <h3 style="text-align: center; margin-bottom: 10px; text-transform: uppercase;">Jedbangers</h3>
+  </td>
+</tr>
+
+<tr>
+  <td>
+    <h2 style="text-align: center; margin-top: 10px;">Motivo de contacto: <span style="text-transform: uppercase;">{{ reason }}</span></h2>
+  </td>
+</tr>
+
+<tr>
+  <td>
+
+    <table cellpadding="10" cellspacing="10" border="0"
+      style="table-layout: fixed; margin: 0 auto; padding: 5px 10px; width: 100% !important; line-height: 100% !important; background: #fcfcfc; border-top: 1px solid #ccc; border-radius: 5px; border-bottom: 1px solid #ccc; color: #1d1d1d; font-size: 0.9em;">
+      <tr>
+        <td width="200" valign="top" style="font-weight: bold; text-align: right;">Nombre/s:</td>
+        <td width="300" valign="top" style="background: #ededed; border-radius: 5px; word-wrap:break-word">{{ full_name }}</td>
+      </tr>
+      <tr>
+        <td width="200" valign="top" style="font-weight: bold; text-align: right;">Correo electrónico:</td>
+        <td width="300" valign="top" style="background: #ededed; border-radius: 5px; word-wrap:break-word">{{ email }}</td>
+      </tr>
+      <tr>
+        <td width="200" valign="top" style="font-weight: bold; text-align: right;">Asunto:</td>
+        <td width="300" valign="top" style="background: #ededed; border-radius: 5px; word-wrap:break-word">{{ subject }}</td>
+      </tr>
+      <tr>
+        <td width="200" valign="top" style="font-weight: bold; text-align: right;">Mensaje:</td>
+        <td width="300" valign="top" style="background: #ededed; border-radius: 5px; word-wrap:break-word">{{ message }}</td>
+      </tr>
+    </table>
+
+    <h5 style="text-align: center;">
+    </h5>
+
+  </td>
+</tr>
+</table>
+</body>
+</html>

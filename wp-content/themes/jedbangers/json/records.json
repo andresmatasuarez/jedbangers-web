@@ -1,0 +1,132 @@
+[
+  {
+    "r_id":     "1",
+    "title":    "Return To Zero",
+    "artist":   "Spiritual Beggars",
+    "release":  "2010-08-30T00:00:00.000+0000",
+    "cover":    "records/return_to_zero.jpg",
+    "tracklist": [
+      { "name": "Return to Zero (Intro)",           "length": "00:00:52"  },
+      { "name": "Lost in Yesterday",                "length": "00:04:49"  },
+      { "name": "Star Born",                        "length": "00:03:06"  },
+      { "name": "The Chaos of Rebirth",             "length": "00:05:21"  },
+      { "name": "We are Free",                      "length": "00:03:24"  },
+      { "name": "Spirit of the Wind",               "length": "00:05:52"  },
+      { "name": "Coming Home",                      "length": "00:03:26"  },
+      { "name": "Concrete Horizon",                 "length": "00:06:02"  },
+      { "name": "A New Dawn Rising",                "length": "00:04:42"  },
+      { "name": "Believe in Me",                    "length": "00:06:41"  },
+      { "name": "Dead Weight",                      "length": "00:04:51"  },
+      { "name": "The Road Less Travelled",          "length": "00:03:45"  },
+      { "name": "Time to Live (Uriah Heep cover)",  "length": "00:04:15"  }
+    ],
+    "selling_points": [
+      { "name": "Puesto 87 (Parque Rivadavia)" },
+      { "name": "Thor Records (Bond Street)" },
+      { "name": "BVM (Cabildo 2136)" },
+      { "name": "Lon Records (Cabildo 2280)" },
+      { "name": "Samy (San Martín 2245)" },
+      { "name": "Xennon (Quilmes y La Plata)" },
+      { "name": "In Concert (Lomas)" },
+      { "name": "La Cueva (San Martín)" },
+      { "name": "Laser Rock (Morón)" },
+      { "name": "Compacto (Mar del Plata)" },
+      { "name": "Utopía (Rosario)" },
+      { "name": "Bloodvomit (Rosario)" },
+      { "name": "Yamamusic (Tucumán)" },
+      { "name": "Cienfuegos (Bahía Blanca)" },
+      { "name": "Inferna (Neuquén)" },
+      { "name": "Devildoll (Mendoza)" },
+      { "name": "Compakta (Santa Cruz)" }
+    ],
+    "description": "Podría decirse que Spiritual Beggars es un super grupo. Es que en sus filas cuenta con Mike Ammott (Arch Enemy, Carcass), Sharlee D’Angelo (Arch Enemy), Per Wilberg (Opeth), Ludwig Witt (Firewind) y el recientemente ingresado Apollo que además se desarrolla como vocalista en Firewind, la banda Gus G, el guitarrista de Ozzy. Una vez más, los Beggars se las arreglaron para confirmar que son una banda que desafía continuamente las fronteras y que entregan un Rock Pesado clásico en su mejor estado, ideal para fnáticos del rock de los 70s algo de los 80s, pero con una frescura inédita en los tiempos que corren. Mientras Arch Enemy se recupera de dos años de giras intensas por todo el mundo Amott volvió a su hogar con energías creativas que lo llevaron a re-activar Spiritual Beggars. Con la llegada de Apollo en las voces, la banda sueca ganó melodía, emoción y logró mantener la magia de siempre.",
+    "purchase_links": {
+      "mp": "https://www.mercadopago.com/mla/buybutton?id=cab54e0a-8fbb-4bed-902a-d53f9518c9bd",
+      "jeds": "http://www.jedbangers.com.ar/tienda/index.php?page=shop.product_details&product_id=341&flypage=flypage.tpl&pop=0&vmcchk=1&option=com_virtuemart&Itemid=6"
+    }
+  },
+
+  {
+    "r_id":     "2",
+    "title":    "As The Palaces Burn",
+    "artist":   "Lamb Of God",
+    "release":  "2003-05-06T00:00:00.000+0000",
+    "cover":    "records/as_the_palaces_burn.jpg",
+    "tracklist": [
+      { "name": "Ruin",                         "length": "00:03:54" },
+      { "name": "As the Palaces Burn",          "length": "00:02:24" },
+      { "name": "Purified",                     "length": "00:03:10" },
+      { "name": "11th Hour",                    "length": "00:03:44" },
+      { "name": "For Your Malice",              "length": "00:03:43" },
+      { "name": "Boot Scraper",                 "length": "00:04:34" },
+      { "name": "A Devil In God’s Country",     "length": "00:03:14" },
+      { "name": "In Defense of Our Good Name",  "length": "00:04:10" },
+      { "name": "Blood Junkie",                 "length": "00:04:23" },
+      { "name": "Vigil",                         "length": "00:04:42" }
+    ],
+    "selling_points": [
+      { "name": "Puesto 87 (Parque Rivadavia)" },
+      { "name": "Thor Records (Bond Street)" },
+      { "name": "BVM (Cabildo 2136)" },
+      { "name": "Lon Records (Cabildo 2280)" },
+      { "name": "Samy (San Martín 2245)" },
+      { "name": "Xennon (Quilmes y La Plata)" },
+      { "name": "In Concert (Lomas)" },
+      { "name": "La Cueva (San Martín)" },
+      { "name": "Laser Rock (Morón)" },
+      { "name": "Compacto (Mar del Plata)" },
+      { "name": "Utopía (Rosario)" },
+      { "name": "Bloodvomit (Rosario)" },
+      { "name": "Yamamusic (Tucumán)" },
+      { "name": "Cienfuegos (Bahía Blanca)" },
+      { "name": "Inferna (Neuquén)" },
+      { "name": "Devildoll (Mendoza)" },
+      { "name": "Compakta (Santa Cruz)" }
+    ],
+    "description": "Editado por primera vez en Argentina, llega \"As The Palaces Burn\", el disco que catapultó a la fama a Lamb of God, una de las bandas líderes de la escena del metal actual. Corría 2003 cuando el quinteto de Virginia plasmaría todo su potencial en una placa que se convertiía en un futuro clásico de Lamb of God. Producido por el canadiense Devin Townsend (Strapping Young Lad), \"As The Palaces Burn\" cuenta con canciones que al día de hoy son un número que no podía faltar en los conciertos del grupo. \"11th Hour\", \"Vigil\" y \"Ruin\" se convirtieron en himnos de esta banda que a fines del 2010 visitó Buenos Aires agotando dos conciertos que recibieron las mejores críticas, dejando una imagen inmejorable.",
+    "purchase_links": {
+      "mp": "https://www.mercadopago.com/mla/buybutton?id=9fb87def-53b8-419a-907e-b7fd212f93d0",
+      "jeds": "http://www.jedbangers.com.ar/tienda/index.php?page=shop.product_details&category_id=3&flypage=flypage.tpl&product_id=489&vmcchk=1&option=com_virtuemart&Itemid=7"
+    }
+  },
+
+  {
+    "r_id":     "3",
+    "title":    "Peace",
+    "artist":   "Vista Chino",
+    "release":  "2013-09-03T00:00:00.000+0000",
+    "cover":    "records/peace.jpg",
+    "tracklist": [
+      { "name": "Good Morning Wasteland",         "length": "00:00:59"  },
+      { "name": "Dargona Dragona",                "length": "00:04:47"  },
+      { "name": "Sweet Remain",                   "length": "00:03:10"  },
+      { "name": "As You Wish",                    "length": "00:05:01"  },
+      { "name": "Planets 1 & 2",                  "length": "00:06:32"  },
+      { "name": "Adara",                          "length": "00:04:39"  },
+      { "name": "Mas Vino",                       "length": "00:01:26"  },
+      { "name": "Dark and Lovely",                "length": "00:06:14"  },
+      { "name": "Barcelonian",                    "length": "00:03:31"  },
+      { "name": "Acidize... The Gambling Moose",  "length": "00:13:00"  }
+    ],
+    "selling_points": [
+      { "name": "Volumen 4 (Galería Luxor)" },
+      { "name": "Puesto 87 (Parque Rivadavia)" },
+      { "name": "Thor Records (Bond Street)" },
+      { "name": "Samy (San Martín 2245)" },
+      { "name": "BVM (Cabildo 2136)" },
+      { "name": "Xennon (Quilmes y La Plata)" },
+      { "name": "In Concert (Lomas)" },
+      { "name": "Pesadilla (Córdoba)" },
+      { "name": "All Music (Jujuy)" },
+      { "name": "Compacto (Mar del Plata)" },
+      { "name": "Locuras (Mar del Plata)" },
+      { "name": "Utopía (Rosario)" },
+      { "name": "Bloodvomit (Rosario)" }
+    ],
+    "description": "Jedbangers se enorgullece en anunciar el lanzamiento de \"Peace\", el disco debut de Vista Chino, la banda formada por John Garcia, Brant Bjork, Nick Oliveri y Bruno Fevery. Originalmente los 3 ex Kyuss habían elegido Kyuss Lives! como nombre para el grupo, pero tras una batalla legal nació Vista Chino. Con \"Peace\" queda claro que Kyuss sigue viviendo.",
+    "purchase_links": {
+      "mp": "",
+      "jeds": ""
+    }
+  }
+]

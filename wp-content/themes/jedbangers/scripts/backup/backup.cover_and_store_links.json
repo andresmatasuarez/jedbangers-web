@@ -1,0 +1,432 @@
+[
+  {
+    "number": 1,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers___1_4c649012d6b61.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=14&category_id=1"
+  },
+  {
+    "number": 2,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers__2_4c6482fd2c224.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&product_id=9&flypage=flypage.tpl&pop=0"
+  },
+  {
+    "number": 3,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers__3_4c6484369591c.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=10&category_id=1"
+  },
+  {
+    "number": 4,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers__4_4c648a02338d9.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=11&category_id=1"
+  },
+  {
+    "number": 5,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers___5_4c648c7138d1e.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=12&category_id=1"
+  },
+  {
+    "number": 6,
+    "cover": "",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=13&category_id=1"
+  },
+  {
+    "number": 7,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers___07_4c6494d4c17c4.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=15&category_id=1"
+  },
+  {
+    "number": 8,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers___08_4c64953d2f057.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=16&category_id=1"
+  },
+  {
+    "number": 9,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers___09_4c64960b9c9f4.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=17&category_id=1"
+  },
+  {
+    "number": 10,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers___10_4c6497965d961.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=18&category_id=1"
+  },
+  {
+    "number": 11,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers___11_4c6498e9cf166.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=19&category_id=1"
+  },
+  {
+    "number": 12,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers___12_4c64994f9bd95.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=20&category_id=1"
+  },
+  {
+    "number": 13,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers___13_4c64a0aa7ce59.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=21&category_id=1"
+  },
+  {
+    "number": 14,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers___14_4c64a10ae8408.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=22&category_id=1"
+  },
+  {
+    "number": 15,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers___15_4c64a29b7910c.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=23&category_id=1"
+  },
+  {
+    "number": 16,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers___16_4c64a3cd3c7ae.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=24&category_id=1"
+  },
+  {
+    "number": 17,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers___17_4c64a4f3a33ee.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=25&category_id=1"
+  },
+  {
+    "number": 18,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers___18_4c64a61707086.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=26&category_id=1"
+  },
+  {
+    "number": 19,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers___19_4c64a73c40258.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=27&category_id=1"
+  },
+  {
+    "number": 20,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers___20_4c64a7c08e361.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=28&category_id=1"
+  },
+  {
+    "number": 21,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers___21_4c6828f505ba2.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=33&category_id=1"
+  },
+  {
+    "number": 22,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers___22_4c682af5a8661.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=34&category_id=1"
+  },
+  {
+    "number": 23,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers___23_4c682b92757a8.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=35&category_id=1"
+  },
+  {
+    "number": 24,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers___24_4c682d6e02574.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=36&category_id=1"
+  },
+  {
+    "number": 25,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers___25_4c682e757fb64.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=37&category_id=1"
+  },
+  {
+    "number": 26,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers___26_4c682f0161f68.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=38&category_id=1"
+  },
+  {
+    "number": 27,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers___27_4c68304831989.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=39&category_id=1"
+  },
+  {
+    "number": 28,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers___28_4c6830e624134.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=40&category_id=1"
+  },
+  {
+    "number": 29,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers___29_4c68335973942.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=41&category_id=1"
+  },
+  {
+    "number": 30,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers___30_4c6834e398898.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=42&category_id=1"
+  },
+  {
+    "number": 31,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers___31_4c68363669726.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=43&category_id=1"
+  },
+  {
+    "number": 32,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers___32_4c68379020e74.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=44&category_id=1"
+  },
+  {
+    "number": 33,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers___33_4c68384f63e0c.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/index.php?page=shop.product_details&flypage=flypage.tpl&product_id=45&category_id=1&vmcchk=1&option=com_virtuemart&Itemid=6"
+  },
+  {
+    "number": 34,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers___34_4c6839e480f73.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=46&category_id=1"
+  },
+  {
+    "number": 35,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers___35_4c683b358723e.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=47&category_id=1"
+  },
+  {
+    "number": 36,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers___36_4c683c0979722.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=48&category_id=1"
+  },
+  {
+    "number": 37,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers___37_4c683cd4f3dc2.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=49&category_id=1"
+  },
+  {
+    "number": 38,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers___38_4c683dd9cf56d.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=50&category_id=1"
+  },
+  {
+    "number": 39,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers___39_4c683eb54a7f3.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=51&category_id=1"
+  },
+  {
+    "number": 40,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers___40_4c683fe467eb3.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=52&category_id=1"
+  },
+  {
+    "number": 41,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers___41_4c6188f0d15f0.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=6&category_id=1"
+  },
+  {
+    "number": 42,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers___42_4c61849a06332.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=4&category_id=1"
+  },
+  {
+    "number": 43,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers___43_4c872e7506af0.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=110&category_id=1"
+  },
+  {
+    "number": 44,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers___44_4caf712d24938.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=237&category_id=1"
+  },
+  {
+    "number": 45,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers___45_4cd8f592b85f2.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=348&category_id=1"
+  },
+  {
+    "number": 46,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers__46_4d56b977e3bc2.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=491&category_id=1"
+  },
+  {
+    "number": 47,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers__47_4d56b9fa6e81f.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=492&category_id=1"
+  },
+  {
+    "number": 48,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers___48_4da24b4e161d1.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=562&category_id=1"
+  },
+  {
+    "number": 49,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers__49_4dfa2a9d21102.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=641&category_id=1"
+  },
+  {
+    "number": 50,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers__50_4dfa2aed57a1b.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=642&category_id=1"
+  },
+  {
+    "number": 51,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers_51_4dfa2b9c5d9aa.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=643&category_id=1"
+  },
+  {
+    "number": 52,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers__52_4e6a3d7899a4a.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=883&category_id=1"
+  },
+  {
+    "number": 53,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers___53_4e9ef675396fd.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=952&category_id=1"
+  },
+  {
+    "number": 54,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers___54_4e9ef6f1f2635.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=953&category_id=1"
+  },
+  {
+    "number": 55,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers__55_4e9ef8015657e.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=954&category_id=1"
+  },
+  {
+    "number": 56,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers_56_4ee2459a5537b.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=1073&category_id=1"
+  },
+  {
+    "number": 57,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers__57_4ee24661b2269.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=1074&category_id=1"
+  },
+  {
+    "number": 58,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers__58_4f3d56ec0da80.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=1165&category_id=1"
+  },
+  {
+    "number": 59,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers__59_4f85ca03340a0.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=1264&category_id=1"
+  },
+  {
+    "number": 60,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers__60_4f85ca7b4fdd3.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=1265&category_id=1"
+  },
+  {
+    "number": 61,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers____61_50539355491e3.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=1549&category_id=1"
+  },
+  {
+    "number": 62,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers__62_50539410dac52.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=1550&category_id=1"
+  },
+  {
+    "number": 63,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbnagers__63_50539451d433d.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=1551&category_id=1"
+  },
+  {
+    "number": 64,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers__64_5053953b47c6a.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=1552&category_id=1"
+  },
+  {
+    "number": 65,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers__65_505397f8df153.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=1553&category_id=1"
+  },
+  {
+    "number": 66,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers__66_511ea554bd3a7.png",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=1705&category_id=1"
+  },
+  {
+    "number": 67,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers__67_511ea645e4179.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=1706&category_id=1"
+  },
+  {
+    "number": 68,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers__68_511ea69b35863.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=1707&category_id=1"
+  },
+  {
+    "number": 69,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers__69_520944025f28f.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=1928&category_id=1"
+  },
+  {
+    "number": 70,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbnagers__70_520945c910890.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=1929&category_id=1"
+  },
+  {
+    "number": 71,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers__71_52094a3c9b41f.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=1930&category_id=1"
+  },
+  {
+    "number": 72,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers__72_520947d534e9d.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=1931&category_id=1"
+  },
+  {
+    "number": 73,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers__73_52094820cd192.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=1932&category_id=1"
+  },
+  {
+    "number": 74,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers__74_52094866e8643.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=1933&category_id=1"
+  },
+  {
+    "number": 75,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers__75_530b7984bfcb3.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=2216&category_id=1"
+  },
+  {
+    "number": 76,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers__76_530b79be9640e.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=2217&category_id=1"
+  },
+  {
+    "number": 77,
+    "cover": "",
+    "store_product": ""
+  },
+  {
+    "number": 78,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers__78_530b7b83ddb1a.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&product_id=2219&flypage=flypage.tpl&pop=0"
+  },
+  {
+    "number": 79,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers__79_53a3463b1c668.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=2278&category_id=1"
+  },
+  {
+    "number": 80,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers__80_53a3421aab45d.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=2279&category_id=1"
+  },
+  {
+    "number": 81,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers__81_53a3428db55b0.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=2280&category_id=1"
+  },
+  {
+    "number": 82,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers__82_53a342f5c31a2.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&product_id=2281&flypage=flypage.tpl&pop=0"
+  },
+  {
+    "number": 83,
+    "cover": "http://www.jedbangers.com.ar/tienda/components/com_virtuemart/shop_image/product/Jedbangers__83_53cdf80c2b614.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&product_id=2351&flypage=flypage.tpl&pop=0"
+  },
+  {
+    "number": 84,
+    "cover": "",
+    "store_product": ""
+  },
+  {
+    "number": 85,
+    "cover": "",
+    "store_product": ""
+  },
+  {
+    "number": 86,
+    "cover": "",
+    "store_product": ""
+  }
+]

@@ -1,0 +1,51 @@
+<div ng-controller="BookController" >
+
+	<div class="book thumbnail horizontal span4">
+
+		<div class="lateral">
+	  	<img class="cover image img-rounded"
+	  		ng-src="{{ paths.getImagePath(book.cover) }}"
+	  		alt="{{ book.title }}">
+
+	  	<div class="info">
+				<div class="images" id="links" ng-if="!_.isEmpty(book.images)">
+				  <a ng-repeat="image in book.images track by $index"
+				  	class="book-detail-image"
+				  	title="Imagen {{ $index + 1 }}"
+				  	style="background-image: url('{{ paths.getImagePath(image) }}');"
+				  	ng-click="model.current_gallery_id = gallery_id;"
+				  	ng-href="{{ paths.getImagePath(image) }}"
+				  	data-gallery="#{{ gallery_id }}">
+				  </a>
+				</div>
+	  		<div><strong>ISBN: </strong>{{ book.isbn }}</div>
+	  		<div><strong>Páginas: </strong>{{ book.format.pages }}</div>
+	  		<div><strong>Dimensiones: </strong>{{ book.format.width }} x {{ book.format.height }} {{ book.format.unit }}</div>
+			</div>
+
+			<div class="buy">
+	  		<button class="btn btn-large btn-danger" ng-click="openPurchaseModal()">Comprar</button>
+	  	</div>
+
+		</div>
+
+		<div class="panel panel-default header">
+			<div class="panel-heading">
+				<h3>
+					<span class="glyphicon glyphicon-fire"></span>
+					<span class="text-uppercase">{{ book.title }}</span>
+				</h3>
+				<span>por {{ book.authors.main }}</span>
+				<span ng-show="book.authors.prologue">- prólogo de {{ book.authors.prologue }}</span>
+			</div>
+		</div>
+
+	  <div class="caption">
+	  	<p ng-bind-html="book.description | autolink"></p>
+	  </div>
+
+	  <div class="panel-footer">
+	  </div>
+
+	</div>
+</div>

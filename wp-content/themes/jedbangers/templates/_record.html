@@ -1,0 +1,59 @@
+<div ng-controller="RecordController">
+	<div class="record thumbnail horizontal span4">
+
+		<div class="lateral">
+	  	<img class="cover image img-rounded"
+	  		ng-src="{{ paths.getImagePath(record.cover) }}"
+	  		alt="{{ record.artist }} {{ record.title }}"
+	  		width="300"
+	  		height="300">
+
+	  	<div class="info">
+	  		<div class="tracklist">
+	  			<strong>Tracklist</strong>
+			  	<ol>
+			  		<li ng-repeat="track in record.tracklist">{{ track.name }}</li>
+			  		<!--  + (_.isEmpty(track.length) ? '' : ' - ' + track.length.minutes() + ':' + track.length.seconds() ) -->
+		  		</ol>
+	  		</div>
+			</div>
+
+			<div class="buy">
+	  		<button class="btn btn-large btn-danger" ng-click="readBeforeBuyingModal(record.purchase_links.mp, record.purchase_links.jeds)">Comprar</button>
+	  	</div>
+
+		</div>
+
+		<div class="panel panel-default header">
+			<div class="panel-heading">
+				<h4>
+					<span class="glyphicon glyphicon-fire"></span>
+					<span>{{ record.artist }}</span>
+					<span class="text-uppercase">{{ record.title }}</span>
+					<span>({{ record.release | utc:'YYYY' }})</span>
+				<div class="badge">
+					<div class="jedbangers-records-logo logo-img"></div>
+					<div class="record-id">{{ record.r_id | jedsId }}</div>
+				</div>
+				</h4>
+			</div>
+		</div>
+
+	  <div class="caption">
+	  	<p ng-bind-html="record.description | autolink"></p>
+	  </div>
+
+	  <div class="get-it">
+	  	<strong>Conseguilo en las siguientes disquerías:</strong>
+	  	<br/>
+	  	<span class="tip">(el precio depende de cada local)</span>
+	  	<ul>
+	  		<li ng-repeat="point in record.selling_points">{{ point.name }}</li>
+			</ul>
+	  </div>
+
+	  <div class="panel-footer">
+	  </div>
+
+	</div>
+</div>

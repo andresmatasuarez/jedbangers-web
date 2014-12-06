@@ -1,0 +1,15 @@
+PAGINA DE SUSCRIPCION
+
+  SALIDA A PRODUCCION
+  --> remover mi mail de los formularios y mi contraseña de la clase que crea el mailer!!!!
+  --> keys.php fuera del webroot y cambiar permisos adecuadamente.
+  --> chequear eso de unset una vez usada la variable privada
+
+  MAS TARDE
+  - form subscrition: thumbnail de las revistas de regalo
+
+- links de compra vista chino
+   |--> implica evaluar posibilidad de meter una modelo de datos más
+        complejo (promos, imagenes, descripcion) en purchase_links,
+        en lugar de que sean solo links cableados.
+

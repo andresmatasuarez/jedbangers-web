@@ -1,0 +1,81 @@
+<div class="faq faq-subscriptions">
+
+  <div class="modal-header">
+    <h3 class="modal-title">
+      FAQ: Suscripciones
+      <span class="glyphicon glyphicon-remove" ng-click="$dismiss('close')"></span>
+    </h3>
+  </div>
+
+  <div class="modal-body">
+
+    <div class="swipe-if-container">
+
+      <ol class="container-fluid swipe-if" ng-if="!model.show_form">
+        <div class="col-md-6 first-column">
+          <li class="question">
+            <strong>¿Qué recibo al suscribirme a <span class="jedbangers">Jedbangers</span>?</strong>
+            <div class="answer">
+              <ul>
+                <li>Las próximas 6 revistas <span class="jedbangers">Jedbangers</span> (una por mes).</li>
+                <li>Una revista de regalo</li>
+                <li>El derecho a participar en los sorteos que son sólo para suscriptos.</li>
+                <li>Participas de sorteos de entradas para shows internacionales</li>
+                <li>Participas de sorteos de Meet and Greet para cuando vienen bandas internacionales</li>
+              </ul>
+            </div>
+          </li>
+          <li class="question">
+            <strong>¿Qué pasa si no hay nadie en mi casa y llega la revista?</strong>
+            <div class="answer">
+              Este punto es muy importante ya que no hacemos envios simples porque son muy propensos a perderse. Por eso, asegurate de darnos una dirección donde el cartero pueda encontrar a alguien que reciba la revista en horario laboral (de 9 a 18hs). El cartero pasa dos veces (en dos fechas diferentes) y si no encuentra a nadie en la dirección que pueda recibir el sobre, nos llega de vuelta la revista y para poder tenerla vas a tener que: o bien pasarla a buscar por nuestra oficina o pagar un envío aparte para que te la volvamos a mandar. Podes darnos el domicilio de tu trabajo si es que no estás seguro de que en tu domicilio personal haya gente en horario laboral.
+            </div>
+          </li>
+        </div>
+        <div class="col-md-6">
+          <li class="question">
+            <strong>¿Cuándo comienza mi suscripción?</strong>
+            <div class="answer">
+              La suscripción comienza con el número siguiente al que está en la calle. Por ejemplo, en este momento el número ya distribuido es el 42, por lo que la suscripción comienza con el #43 (Septiembre).
+            </div>
+          </li>
+          <li class="question">
+            <strong>¿Me llegan 6 revistas Juntas?</strong>
+            <div class="answer">
+              No. Te llegará cada revista a medida que se vayan editando. Es decir, por cada mes, recibirás una revista. Por lo que en 6 meses recibirás 6 revistas.
+            </div>
+          </li>
+          <li class="question">
+            <strong>¿Tengo que pagar todos los meses?</strong>
+            <div class="answer">
+              No. El importe de la suscripcion se paga una sola vez. Por ese importe, vas a recibir todo lo aclarado en la respuesta 1.
+            </div>
+          </li>
+          <li class="question">
+            <strong>Hay algo que no entiendo, ¿qué hago?</strong>
+            <div class="answer">
+              Si todavía tenés alguna duda, antes de hacer el pago por favor <a href="" ng-click="model.show_form = true">rellená este formulario</a> y te respondemos a la brevedad. Si tenés dudas, NO hagas ningún pago.
+            </div>
+          </li>
+        </div>
+      </ol>
+
+      <div class="col-md-offset-2 col-md-8 swipe-if" ng-if="model.show_form">
+
+        <h3 class="tell-us-your-problem">Comentanos cuál es tu duda y te responderemos a la brevedad.</h3>
+
+        <ng-include src="params.contactFormTemplate" ng-init="selectedReason = params.reason_enquiry"></ng-include>
+
+      </div>
+
+    </div>
+
+  </div>
+
+  <div class="modal-footer">
+    <button class="btn btn-danger" ng-click="model.show_form = true" ng-show="!model.show_form">Sigo teniendo una duda...</button>
+    <button class="btn btn-danger" ng-click="model.show_form = false" ng-show="model.show_form">Volver</button>
+    <button class="btn btn-danger" ng-click="$dismiss('close')">Cerrar</button>
+  </div>
+
+</div>

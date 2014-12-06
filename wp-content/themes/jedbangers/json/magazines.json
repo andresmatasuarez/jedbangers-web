@@ -1,0 +1,2016 @@
+[
+  {
+    "number": 84,
+    "title": "Judas Priest",
+    "content": {
+      "main": [
+        {
+          "name": "Judas Priest",
+          "description": "Entrevista exclusiva con Rob Halford."
+        }
+      ],
+      "featured": [
+        {
+          "name": "Festivales Europeos",
+          "description": "Wacken, Hellfest y Sweden Rock por dentro"
+        },
+        {
+          "name": "Especial Death Metal",
+          "description": "Reportajes con Massacre, Death To All y Septicflesh"
+        },
+        {
+          "name": "Ghost",
+          "description": "Reportaje exclusivo con el hombre detrás de Papa Emeritus"
+        },
+        {
+          "name": "Pallbearer",
+          "description": "Entrevista exclusiva"
+        }
+      ],
+      "sections": {
+        "top_ten": "Las 10 peores regrabaciones",
+        "poster": "Black Label Society en Bs As",
+        "painting_blood": {
+          "album": "Blessed Black Wings",
+          "artist": "High On Fire",
+          "cover_artist": "Arik Roper",
+          "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662689/content/sections/painting_blood/cover/84_dywdkr.jpg"
+        },
+        "desde_el_pogo": [
+          "Horcas"
+        ],
+        "historia_del_rock": {
+          "chapter": 68,
+          "year": 2004,
+          "part": 3
+        },
+        "sobrevivientes_del_rock": "Pato Larralde de Sauron y Los Antiguos"
+      },
+      "other": "Y además, las reviews, el Jeds Files, la columna de Gloria Cavalera, Puño, Scream For Me y más!"
+    },
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413668924/cover/84_ljvq3p.jpg",
+    "store_product": "",
+    "date": "Fri Aug 01 2014 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 83,
+    "title": "Motörhead: Bastardos con gloria",
+    "content": {
+      "main": [
+        {
+          "name": "Motörhead",
+          "description": "<ul><li>¡¿Qué pasa con Lemmy?! ¿Qué le depara el futuro a Motörhead?</li><li>Reportaje Exclusivo con Fast Eddie Clarke</li><li>Adelanto de la autobiografía de Lemmy, próxima a editarse por Jedbangers.</li></ul>"
+        }
+      ],
+      "featured": [
+        {
+          "name": "Especial Black",
+          "description": "Reportajes con Cradle of Filth, Wolves In The Throne Room y Oranssi Pazuzu."
+        },
+        {
+          "name": "Especial Doom",
+          "description": "Reportajes con Procession, Age Of Taurus y Below."
+        },
+        {
+          "name": "Especial Stoner",
+          "description": "Reportajes con Truckfighters, John García (ex-Kyuss) y Poseidótica."
+        },
+        {
+          "name": "Patán",
+          "description": "Reportaje."
+        },
+        {
+          "name": "The Dagger",
+          "description": "Nota con la nueva banda de Fred Estby."
+        },
+        {
+          "name": "Vintersorg",
+          "description": "Reportaje."
+        }
+      ],
+      "sections": {
+        "top_ten": "Los 10 discos nacionales más arriesgados.",
+        "gracias_por_la_magia": {
+          "album": "Welcome To Hell",
+          "artist": "Venom",
+          "year": 1981,
+          "label": "Neat Records",
+          "description": "Reportaje doble!",
+          "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662800/content/sections/gracias_por_la_magia/cover/83_gzpxqo.jpg"
+        },
+        "poster": "Arch Enemy 2014",
+        "painting_blood": {
+          "album": "Dark Roots Of Earth",
+          "artist": "Testament",
+          "cover_artist": "Eliran Kantor",
+          "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662685/content/sections/painting_blood/cover/83_f93hcz.jpg"
+        },
+        "desde_el_pogo": [
+          "Malicia",
+          "Tyr",
+          "Korpiklaani"
+        ],
+        "historia_del_rock": {
+          "chapter": 67,
+          "year": 2004,
+          "part": 2
+        },
+        "main_album_review": {
+          "artist": "Mastodon",
+          "album": "Once More 'Round the Sun",
+          "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662765/content/sections/main_album_review/cover/83_pkbwiq.jpg"
+        }
+      },
+      "other": "Puño, el Copetín de Astilla, el Jeds Files, la columna de Gloria Cavalera, las reviews, el Scream For Me y más!"
+    },
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662670/cover/83_xiqv0b.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&product_id=2351&flypage=flypage.tpl&pop=0",
+    "date": "Tue Jul 01 2014 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 82,
+    "title": "Damas de Hierro",
+    "content": {
+      "main": [
+        {
+          "name": "Tarja Turunen",
+          "description": "La ex Nightwish nos abrió la puerta de su hogar y aprovechamos la ocasión para un extenso reportaje."
+        },
+        {
+          "name": "Arch Enemy",
+          "description": "Alissa White-Gluz & Mike Amott hablaron con Jedbangers sobre la llegada de la nueva vocalista, el nuevo disco y los planes de la banda."
+        },
+        {
+          "name": "Epica",
+          "description": "Exclusiva con Simone Simons."
+        },
+        {
+          "name": "Anneke Van Giersbergen & Danny Cavanagh",
+          "description": "Ambos musicos hablaron en su paso por Buenos Aires."
+        }
+      ],
+      "featured": [
+        {
+          "name": "Brasil 2014",
+          "description": "El ruso Verea analiza una nueva copa del mundo."
+        },
+        {
+          "name": "Monster Magnet",
+          "description": "Dave Wyndorf y un reportaje como nunca leíste (5 páginas)."
+        },
+        {
+          "name": "Nirvana",
+          "description": "A los 25 años de \"Bleach\", habla Chad Channing, batero del disco."
+        }
+      ],
+      "sections": {
+        "sobrevivientes_del_rock": "Eric Wagner, ex-Trouble y actual The Skull",
+        "poster": "De La Tierra en vivo",
+        "desde_el_pogo": [
+          "Amon Amarth",
+          "Children of Bodom",
+          "Therion",
+          "Warcry",
+          "De La Tierra",
+          "Picture/Grim Reaper",
+          "ReVamp"
+        ],
+        "main_album_review": [
+          {
+            "artist": "Down",
+            "album": "Down IV - Part II",
+            "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662755/content/sections/main_album_review/cover/82_1_mxhwhn.jpg"
+          },
+          {
+            "artist": "Crowbar",
+            "album": "Symmetry In Black",
+            "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662757/content/sections/main_album_review/cover/82_2_kd0ijj.jpg"
+          },
+          {
+            "artist": "Eyehategod",
+            "album": "Eyehategod",
+            "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662760/content/sections/main_album_review/cover/82_3_svpfko.jpg"
+          }
+        ],
+        "historia_del_rock": {
+          "chapter": 66,
+          "year": 2004,
+          "part": 1
+        },
+        "painting_blood": {
+          "album": "Emperor's Return",
+          "artist": "Celtic Frost",
+          "cover_artist": "Phil Lawrence",
+          "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662682/content/sections/painting_blood/cover/82_d107x4.jpg"
+        }
+      },
+      "other": "Más de 30 Reviews, incluyendo <strong>Down</strong>, <strong>Crowbar</strong>, <strong>Eyehategod</strong>, <strong>Prong</strong>, <strong>Deep Purple</strong>, <strong>Devin Townsend</strong>, <strong>Epica</strong>, <strong>Floor</strong>, <strong>Fu Manchu</strong> y más!"
+    },
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662663/cover/82_kgdaq7.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&product_id=2281&flypage=flypage.tpl&pop=0",
+    "date": "Sun Jun 01 2014 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 81,
+    "title": "Temporada de Recitales",
+    "content": {
+      "main": [
+        {
+          "name": "Megadeth",
+          "description": "Megadeth volvió a Buenos Aires y estuvimos en los shows de la banda de Mustaine para traerte las crónicas. Además, hablamos con David Ellefson sobre los días de “Youthanasia”, el presente del grupo."
+        },
+        {
+          "name": "Soundgarden",
+          "description": "La banda de Cornell llegó por primera vez a Buenos Aires y la cobertura del show, junto a un reportaje con Kim Thayil, es algo de lo que podés leer en este número. "
+        },
+        {
+          "name": "Guns N Roses",
+          "description": "Cobertura del Show de Ferro"
+        },
+        {
+          "name": "Nine Inch Nails",
+          "description": "Cobertura del show en Lollapalooza + 20 años de The Downward Spiral."
+        }
+      ],
+      "featured": [
+        {
+          "name": "Especial Thrash",
+          "description": "Reportaje y cobertura del show de Havok en Asbury, habla Spice de Kayser y nota con Lost Society."
+        },
+        {
+          "name": "Especial Rock ocultista",
+          "description": "Informe sobre este género que además de tener de aliado a Satanás tiene la particularidad de contar con una cantidad interesante de bandas lideradas por mujeres cantantes. Jedbangers entabló conexión con The Oath, los legendarios Coven, Jex Thoth y Mount Salem para ponerte al tanto de esta movida."
+        },
+        {
+          "name": "Plan 4",
+          "description": "Reportaje con Canario."
+        },
+        {
+          "name": "Tribulation",
+          "description": "Habla Adam Zaars"
+        },
+        {
+          "name": "Ulcerate",
+          "description": "Reportaje exclusivo."
+        }
+      ],
+      "sections": {
+        "gracias_por_la_magia": {
+          "album": "Demolición",
+          "artist": "Bloke",
+          "year": 1984,
+          "label": "Umbral Records",
+          "description": "Festejamos los 30 años de \"Demolición\" de Bloke con un Gracias por la Magia imperdible.",
+          "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662798/content/sections/gracias_por_la_magia/cover/81_tltb3u.jpg"
+        },
+        "poster": "H.I.M. en Buenos Aires",
+        "desde_el_pogo": [
+          "Pentagram",
+          "H.I.M",
+          "Paradise Lost"
+        ],
+        "historia_del_rock": {
+          "chapter": 65,
+          "year": 2003,
+          "part": 4
+        },
+        "painting_blood": {
+          "album": "Painkiller",
+          "artist": "Judas Priest",
+          "cover_artist": "Mark Wilkinson",
+          "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662678/content/sections/painting_blood/cover/81_xxk4hj.jpg"
+        },
+        "main_album_review": {
+          "artist": "Ronnie James Dio Tribute",
+          "album": "This Is Your Life",
+          "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662753/content/sections/main_album_review/cover/81_ic9wgl.jpg"
+        }
+      },
+      "other": "Puño, el Copetín de Astilla, el Jeds Files, la columna de Gloria Cavalera, las reviews, el Scream For Me y más!"
+    },
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662658/cover/81_o6o7nr.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=2280&category_id=1",
+    "date": "Thu May 01 2014 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 80,
+    "title": "Metallica en La Plata",
+    "content": {
+      "main": [
+        {
+          "name": "Metallica",
+          "description": "7 paginas con los 2 shows de La Plata + la historia detrás de cada una de las canciones tocadas en esas 2 noches."
+        }
+      ],
+      "featured": [
+        {
+          "name": "Pantera",
+          "description": "Homenaje por el 20° aniversario de Far Beyond Driven."
+        },
+        {
+          "name": "Killer Be Killed",
+          "description": "Habla Greg Puciato"
+        },
+        {
+          "name": "Tano Marciello",
+          "description": "Reportaje"
+        },
+        {
+          "name": "Tren Loco",
+          "description": "Entrevista"
+        },
+        {
+          "name": "Black Star Riders",
+          "description": "Entrevista"
+        },
+        {
+          "name": "Sick Porky",
+          "description": "Entrevista"
+        },
+        {
+          "name": "Apocalyptica",
+          "description": "Entrevista "
+        }
+      ],
+      "sections": {
+        "gracias_por_la_magia": {
+          "album": "Troublegum",
+          "artist": "Therapy?",
+          "year": 1994,
+          "label": "A&M Records",
+          "description": "Doble reportaje de este clásico de culto de los '90s.",
+          "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662796/content/sections/gracias_por_la_magia/cover/80_wdobvp.jpg"
+        },
+        "poster": "Avenged Sevenfold en el Luna Park",
+        "painting_blood": {
+          "album": "The Art Of Partying",
+          "artist": "Municipal Waste",
+          "cover_artist": "Andrei Bouzikov",
+          "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662675/content/sections/painting_blood/cover/80_tu3oyy.jpg"
+        },
+        "desde_el_pogo": [
+          "Avenged Sevenfold",
+          "Sonata Arctica"
+        ],
+        "historia_del_rock": {
+          "chapter": 64,
+          "year": 2003,
+          "part": 3
+        },
+        "main_album_review": [
+          {
+            "artist": "Gamma Ray",
+            "album": "Empire Of The Undead",
+            "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662745/content/sections/main_album_review/cover/80_1_exr1oj.jpg"
+          },
+          {
+            "artist": "Sonata Arctica",
+            "album": "Pariah's Child",
+            "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662751/content/sections/main_album_review/cover/80_2_ixfadl.jpg"
+          }
+        ]
+      },
+      "other": "Puño, el Copetín de Astilla, el Jeds Files, la columna de Gloria Cavalera, las reviews, el Scream For Me y más!"
+    },
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662652/cover/80_v84az2.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=2279&category_id=1",
+    "date": "Tue Apr 01 2014 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 79,
+    "title": "20º Aniversario de Víctimas del Vaciamiento",
+    "content": {
+      "main": [
+        {
+          "name": "Hermética",
+          "description": "11 páginas con data CANDENTE, con reportajes a Tano Romano, Pato Strunz y la gente que hizo el disco (productores, ingenieros de sonido, la gente a cargo del arte de tapa, etc). Y ADEMAS: reportaje INCREIBLE a Ricardo Iorio hecho en 1994, a pocas semanas de la salida del disco. También te contamos la historia detrás de la portada de “Victimas…” y te mostramos las 2 tapas que no fueron."
+        }
+      ],
+      "featured": [
+        {
+          "name": "De La Tierra",
+          "description": "Hablamos con los 4 integrantes de este supergrupo"
+        },
+        {
+          "name": "Los 15 discos más esperados de 2014",
+          "description": "Desde Tool a Machine Head, desde Judas Priest a Black Label Society, pasando por Slayer e Immortal, te contamos como vienen los próximos discos más esperados para este año."
+        },
+        {
+          "name": "Deafheaven",
+          "description": "¿La nueva esperanza del Black?"
+        },
+        {
+          "name": "Turbonegro",
+          "description": "Entrevista con Hank Von Helvete, el ex vocalista de Turbonegro."
+        },
+        {
+          "name": "Pentagram (Chile)",
+          "description": "Habla Anton"
+        },
+        {
+          "name": "Encuesta 2013",
+          "description": "Un clásico: ustedes votan y nosotros recontamos."
+        }
+      ],
+      "sections": {
+        "poster": "Gojira",
+        "painting_blood": {
+          "album": "Behind The Lights",
+          "cover_artist": "Truls Espedal",
+          "artist": "Enslaved",
+          "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1416318250/content/sections/painting_blood/cover/79_evj6fb.jpg"
+        },
+        "desde_el_pogo": [
+          "Dark Tranquility",
+          "Kamelot",
+          "Kreator",
+          "Steve Vai",
+          "Gamma Ray",
+          "Helloween",
+          "Bad Religion",
+          "Nile",
+          "Transatlantic"
+        ],
+        "historia_del_rock": {
+          "chapter": 63,
+          "year": 2003,
+          "part": 2
+        },
+        "main_album_review": {
+          "artist": "Behemoth",
+          "album": "The Satanist",
+          "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662744/content/sections/main_album_review/cover/79_riefit.jpg"
+        }
+      },
+      "other": "Puño, el Copetín de Astilla, el Jeds Files, la columna de Gloria Cavalera, las reviews, el Scream For Me y más!"
+    },
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662644/cover/79_nty6se.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=2278&category_id=1",
+    "date": "Sat Mar 01 2014 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 78,
+    "title": "AC/DC y el largo camino a la cima",
+    "content": {
+      "main": [
+        {
+          "name": "AC/DC",
+          "description": "40º Aniversario<ul><li>Informe exclusivo: el nacimiento de AC/DC.</li><li>Nota 1977: Angus Young & Bon Scott</li><li>Nota 1983: Angus Young</li><li>Extracto del libro de Mark Evans, bajista de AC/DC</li><li>Repasamos la discografía</li></ul>"
+        }
+      ],
+      "featured": [
+        {
+          "name": "Mercyful Fate",
+          "description": "30 años de Melissa con M. Denner y H. Shermann"
+        },
+        {
+          "name": "Horcas",
+          "description": "Entrevista exclusiva"
+        },
+        {
+          "name": "Lo mejor de 2013",
+          "description": "Cada integrante del staff de Jedbangers selecciona sus 10 discos del año."
+        },
+        {
+          "name": "Meshuggah",
+          "description": "Entrevista exclusiva"
+        },
+        {
+          "name": "Epica",
+          "description": "Entrevista exclusiva"
+        },
+        {
+          "name": "Vibrion",
+          "description": "Entrevista exclusiva"
+        },
+        {
+          "name": "Ihsahn",
+          "description": "Entrevista exclusiva"
+        },
+        {
+          "name": "Devil",
+          "description": "Entrevista exclusiva"
+        }
+      ],
+      "sections": {
+        "poster": "Lo mejor del año dibujado por Dufour!",
+        "desde_la_tumba": {
+          "description": "En el capítulo final, Dan responde las preguntas de los lectores."
+        },
+        "desde_el_pogo": [
+          "Off!",
+          "Malmsteen"
+        ],
+        "historia_del_rock": {
+          "chapter": 62,
+          "year": 2003,
+          "part": 1
+        },
+        "sobrevivientes_del_rock": "Mina Caputo (ex Keith Caputo)",
+        "main_album_review": {
+          "artist": "Motörhead",
+          "album": "Aftershock",
+          "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662741/content/sections/main_album_review/cover/78_uihpt3.jpg"
+        }
+      },
+      "other": "Puño, el Copetín de Astilla, el Jeds Files, la columna de Gloria Cavalera, las reviews, el Scream For Me y más!"
+    },
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662640/cover/78_buviwj.png",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&product_id=2219&flypage=flypage.tpl&pop=0",
+    "date": "Sat Feb 01 2014 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 77,
+    "title": "Exceso Sónico",
+    "content": {
+      "main": [
+        {
+          "name": "Black Sabbath",
+          "description": "Black Sabbath en La Plata + Adelanto Libro de Iommi + Poster en vivo"
+        },
+        {
+          "name": "Megadeth",
+          "description": "Megadeth en La Plata + Nota con Dave Mustaine"
+        },
+        {
+          "name": "Alice in Chains",
+          "description": "Alice en el Luna + Nota con Jerry Cantrell"
+        },
+        {
+          "name": "Korn ",
+          "description": "Cobertura en Malvinas + Nota con Head y Munky"
+        }
+      ],
+      "featured": [
+        {
+          "name": "Anathema",
+          "description": "Habla Danny Cavanagh"
+        },
+        {
+          "name": "Soulfly",
+          "description": "Habla Max Cavalera"
+        },
+        {
+          "name": "Sepultura",
+          "description": "Habla Andreas Kisser"
+        },
+        {
+          "name": "Carajo",
+          "description": "Hablan Corvata, Andres y Tery"
+        },
+        {
+          "name": "OFF!",
+          "description": "Habla Keith Morris"
+        },
+        {
+          "name": "Trouble",
+          "description": "Hablan Kyle Thomas y Bruce Franklin"
+        },
+        {
+          "name": "Cobra Sarli",
+          "description": "Entrevista"
+        }
+      ],
+      "sections": {
+        "poster": "Black Sabbath en vivo en Bs As",
+        "desde_la_tumba": {
+          "artist": "Hypocrisy",
+          "album": "Penetralia",
+          "description": "Dan Seagrave cuenta como hizo la portada de Hypocrisy \"Penetralia\"",
+          "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662820/content/sections/desde_la_tumba/cover/77_k0ra0h.jpg"
+        },
+        "desde_el_pogo": [
+          "Whitesnake",
+          "Limp Bizkit"
+        ],
+        "historia_del_rock": {
+          "chapter": 61,
+          "year": 2002,
+          "part": 5
+        },
+        "main_album_review": {
+          "artist": "Korn",
+          "album": "The Paradigm Shift",
+          "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662739/content/sections/main_album_review/cover/77_kahdub.jpg"
+        }
+      },
+      "other": "Puño, el Copetín de Astilla, el Jeds Files, la columna de Gloria Cavalera, las reviews, el Scream For Me y más!"
+    },
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1416758010/cover/77_vmwdyk.jpg",
+    "store_product": "",
+    "date": "Fri Nov 01 2013 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 76,
+    "title": "Iron Maiden: la batalla de River",
+    "content": {
+      "main": [
+        {
+          "name": "Iron Maiden",
+          "description": "Cobertura Especial + Entrevista Steve Harris"
+        },
+        {
+          "name": "Ghost",
+          "description": "Cobertura + Entrevista"
+        },
+        {
+          "name": "Slayer",
+          "description": "Cobertura show en River"
+        }
+      ],
+      "featured": [
+        {
+          "name": "Vista Chino",
+          "description": "Hablan John Garcia y Brant Bjork"
+        },
+        {
+          "name": "Devildriver",
+          "description": "Entrevista con Dez Fafara"
+        },
+        {
+          "name": "Buenos Aires Post Hardcore",
+          "description": "Deny, Melian y Coralies"
+        },
+        {
+          "name": "Xasthur",
+          "description": "Entrevista "
+        }
+      ],
+      "sections": {
+        "gracias_por_la_magia": {
+          "album": "Draconian Times",
+          "artist": "Paradise Lost",
+          "year": 1995,
+          "label": "Sony BMG",
+          "description": "Gregor y Nick cuentan como se hizo este clásico.",
+          "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662795/content/sections/gracias_por_la_magia/cover/76_tgupz8.png"
+        },
+        "poster": "Carcass",
+        "desde_la_tumba": {
+          "artist": "Malevolent Creation",
+          "album": "The Ten Commandments",
+          "description": "Dan Seagrave cuenta como hizo la portada de \"The Ten Commandments\" de Malevolent Creation",
+          "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662818/content/sections/desde_la_tumba/cover/76_dtubrb.jpg"
+        },
+        "desde_el_pogo": [
+          "Helker",
+          "Plan 4",
+          "Rob Zombie",
+          "Living Colour"
+        ],
+        "historia_del_rock": {
+          "chapter": 60,
+          "year": 2002,
+          "part": 4
+        },
+        "main_album_review": {
+          "artist": "Carcass",
+          "album": "Surgical Steel",
+          "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662735/content/sections/main_album_review/cover/76_frbmz5.jpg"
+        }
+      },
+      "other": "Puño, el Copetín de Astilla, el Jeds Files, la columna de Gloria Cavalera, las reviews, el Scream For Me y más!"
+    },
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662632/cover/76_pjnomx.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=2217&category_id=1",
+    "date": "Tue Oct 01 2013 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 75,
+    "title": "Metallica: los 10 hitos",
+    "content": {
+      "main": [
+        {
+          "name": "Metallica",
+          "description": "Los 30 años de “Kill ‘Em All” y los 25 de “…And Justice for All” nos hicieron reflexionar… ¿cuáles son los 10 grandes hitos en la historia de Metallica? A través de 13 páginas de notas, declaraciones e investigación a pleno, logramos encontrar esos 10 momentos claves en la carrera de una banda definitoria. Hecho por y para fans."
+        }
+      ],
+      "featured": [
+        {
+          "name": "Kreator",
+          "description": "Visiones de Muerte"
+        },
+        {
+          "name": "Dream Theater",
+          "description": "Exclusiva con Petrucci"
+        },
+        {
+          "name": "Alter Bridge",
+          "description": "Habla Myles Kennedy"
+        }
+      ],
+      "sections": {
+        "poster": "Vista Chino",
+        "desde_la_tumba": {
+          "artist": "Edge of Sanity",
+          "album": "The Spectral Sorrows",
+          "description": "Dan Seagrave cuenta como hizo la tapa de The Spectral Sorrows de Edge of Sanity",
+          "cover": "http://res.cloudinary.com/jedbangers/image/upload/v1416315589/content/sections/desde_la_tumba/cover/75_dgmsoi.jpg"
+        },
+        "desde_el_pogo": [
+          "Possessed",
+          "Soulfly",
+          "Angra",
+          "Metal Para Todos 6",
+          "Serpentor",
+          "Corrosion of Conformity",
+          "Violator"
+        ],
+        "historia_del_rock": {
+          "chapter": 59,
+          "year": 2002,
+          "part": 3
+        },
+        "main_album_review": {
+          "artist": "Vista Chino",
+          "album": "Peace",
+          "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662732/content/sections/main_album_review/cover/75_jcav4j.jpg"
+        }
+      },
+      "other": "Puño, el Copetín de Astilla, el Jeds Files, la columna de Gloria Cavalera, las reviews, el Scream For Me y más!"
+    },
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662629/cover/75_mylru3.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=2216&category_id=1",
+    "date": "Sun Sep 01 2013 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 74,
+    "title": "Los gloriosos días de la decadencia",
+    "content": {
+      "main": [
+        {
+          "name": "Motley Crue",
+          "description": "30 años de \"Shout At the Devil\" Nota histórica hecha en 1983, en los años de la gloriosa decadencia. Hablan Nikki Sixx, Vince Neil y Mick Mars. "
+        }
+      ],
+      "featured": [
+        {
+          "name": "Ensiferum",
+          "description": "Entrevista"
+        },
+        {
+          "name": "Helker",
+          "description": "Entrevista"
+        },
+        {
+          "name": "Fughu",
+          "description": "Entrevista"
+        },
+        {
+          "name": "Marty Friedman",
+          "description": "Entrevista"
+        },
+        {
+          "name": "Dead Lord",
+          "description": "Entrevista"
+        },
+        {
+          "name": "Killswitch Engage",
+          "description": "Entrevista"
+        }
+      ],
+      "sections": {
+        "gracias_por_la_magia": {
+          "album": "The Principle of Evil Made Flesh",
+          "artist": "Cradle of Filth",
+          "year": 1994,
+          "label": "Cacophonous",
+          "description": "Paul Allender revela cómo se hizo esta joya del Black Metal.",
+          "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662784/content/sections/gracias_por_la_magia/cover/74_okinmm.jpg"
+        },
+        "poster": "Children of Bodom",
+        "desde_la_tumba": {
+          "artist": "Entombed",
+          "album": "Clandestine",
+          "description": "Dan Seagrave cuenta como hizo la portada de Clandestine de Entombed",
+          "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662814/content/sections/desde_la_tumba/cover/74_emjge7.jpg"
+        },
+        "desde_el_pogo": [
+          "Avantasia",
+          "Cannibal Corpse",
+          "Tool"
+        ],
+        "historia_del_rock": {
+          "chapter": 58,
+          "year": 2002,
+          "part": 2
+        },
+        "main_album_review": {
+          "artist": "Alice in Chains",
+          "album": "The Devil Put Dinosaurs Here",
+          "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662726/content/sections/main_album_review/cover/74_bfj1uj.jpg"
+        }
+      },
+      "other": "Puño, el Copetín de Astilla, el Jeds Files, la columna de Gloria Cavalera, las reviews, el Scream For Me y más!"
+    },
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662625/cover/74_bdyd0w.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=1933&category_id=1",
+    "date": "Thu Aug 01 2013 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 73,
+    "title": "Obedecé a los maestros!",
+    "content": {
+      "main": [
+        {
+          "name": "Black Sabbath",
+          "description": "Especial Black Sabbath y el lanzamiento de \"13\" - 10 Páginas!!!"
+        }
+      ],
+      "featured": [
+        {
+          "name": "Mike Patton",
+          "description": "Entrevista"
+        },
+        {
+          "name": "Violator",
+          "description": "Entrevista"
+        },
+        {
+          "name": "Sunn O)))",
+          "description": "Entrevista"
+        },
+        {
+          "name": "Metal Para Todos",
+          "description": "Preview del Festival"
+        },
+        {
+          "name": "Eternal Grave",
+          "description": "Reportaje"
+        }
+      ],
+      "sections": {
+        "poster": "Iorio & Zamarbide",
+        "desde_la_tumba": {
+          "artist": "Suffocation",
+          "album": "Effigy Of The Forgotten",
+          "description": "Dan Seagrave cuenta como hizo la portada de \"Effigy of the Forgotten\" de Suffocation",
+          "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662811/content/sections/desde_la_tumba/cover/73_cn50x3.jpg"
+        },
+        "desde_el_pogo": [
+          "Almafuerte en All Boys",
+          "Zamarbide Homenaje Luchando por el Metal",
+          "Annihilator",
+          "Ensiferum",
+          "Halestorm",
+          "Stratovarius",
+          "Marky Ramone",
+          "Punk Rock Bowling Fest"
+        ],
+        "historia_del_rock": {
+          "chapter": 57,
+          "year": 2002,
+          "part": 1
+        },
+        "main_album_review": {
+          "artist": "Megadeth",
+          "album": "Super Collider",
+          "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662724/content/sections/main_album_review/cover/73_xtxq4o.jpg"
+        }
+      },
+      "other": "Puño, el Copetín de Astilla, el Jeds Files, la columna de Gloria Cavalera, las reviews, el Scream For Me y más!"
+    },
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662619/cover/73_qtqm0l.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=1932&category_id=1",
+    "date": "Mon Jul 01 2013 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 72,
+    "title": "Alice in Chains: Los últimos de su especie",
+    "content": {
+      "main": [
+        {
+          "name": "Alice in Chains",
+          "description": "Jerry Cantrell cuenta todos los pormenores de “The Devil Put Dinosaurs Here”, habla sobre sus días junto a Layne y explica su visión musical."
+        }
+      ],
+      "featured": [
+        {
+          "name": "Jeff Hanneman (Slayer)",
+          "description": "Un homenaje al fallecido thrasher"
+        },
+        {
+          "name": "Ghost",
+          "description": "Reportaje con el hombre detrás de la máscara."
+        },
+        {
+          "name": "Anthrax y Testament",
+          "description": "Estuvimos ahí, sobrevivimos a los decibeles y te lo contamos."
+        },
+        {
+          "name": "Black Sabbath",
+          "description": "Los vimos en Nueva Zelanda y te contamos como es el show. Además, un resumen de como viene “13” "
+        },
+        {
+          "name": "Enforcer",
+          "description": "Reportaje + cobertura"
+        },
+        {
+          "name": "Marky Ramone",
+          "description": "Entrevista exclusiva"
+        }
+      ],
+      "sections": {
+        "gracias_por_la_magia": {
+          "album": "Testimony of Ancients",
+          "artist": "Pestilence",
+          "year": 1991,
+          "label": "Roadrunner",
+          "description": "Doble reportaje!",
+          "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662781/content/sections/gracias_por_la_magia/cover/72_wuhvzu.jpg"
+        },
+        "desde_la_tumba": {
+          "album": "Testimony of Ancients",
+          "artist": "Pestilence",
+          "description": "Dan Seagrave cuenta como hizo la portada de Testimony of Ancients",
+          "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662810/content/sections/desde_la_tumba/cover/72_aahhgd.jpg"
+        },
+        "desde_el_pogo": [
+          "Steven Wilson",
+          "Lacrimosa",
+          "Rata Blanca"
+        ],
+        "historia_del_rock": {
+          "chapter": 56,
+          "year": 2001,
+          "part": 4
+        },
+        "sobrevivientes_del_rock": "Adrian Outeda de Satan Dealers y ex NDI",
+        "main_album_review": {
+          "artist": "Deep Purple",
+          "album": "Now What?",
+          "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662717/content/sections/main_album_review/cover/72_dwdfbc.jpg"
+        }
+      },
+      "other": "Puño, el Copetín de Astilla, el Jeds Files, la columna de Gloria Cavalera, las reviews, el Scream For Me y más!"
+    },
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662600/cover/72_gynsuz.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=1931&category_id=1",
+    "date": "Sat Jun 01 2013 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 71,
+    "title": "Fabuloso Desastre!",
+    "content": {
+      "main": [
+        {
+          "name": "A Perfect Circle",
+          "description": "Entrevista + Cobertura"
+        },
+        {
+          "name": "Anthrax ",
+          "description": "Entrevista con Scott Ian"
+        },
+        {
+          "name": "Testament",
+          "description": "Entrevista con Chuck Billy y Eric Peterson"
+        },
+        {
+          "name": "Accept",
+          "description": "Los Lectores vs Wolf Hoffman + Cobertura"
+        },
+        {
+          "name": "Saxon",
+          "description": "Biff Byford + Cobertura"
+        },
+        {
+          "name": "Pearl jam",
+          "description": "Cobertura especial"
+        }
+      ],
+      "featured": [
+        {
+          "name": "Metal Fest 2013 ",
+          "description": "cobertura desde Chile"
+        }
+      ],
+      "sections": {
+        "poster": "Annihilator en Bs as",
+        "desde_la_tumba": {
+          "artist": "Nocturnus",
+          "album": "The Key",
+          "description": "Dan Seagrave cuenta como hizo la portada de The Key, el disco de Nocturnus.",
+          "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662808/content/sections/desde_la_tumba/cover/71_snbbmf.jpg"
+        },
+        "gracias_por_la_magia ": {
+          "album": "Kings of Metal",
+          "artist": "Manowar",
+          "year": 1988,
+          "label": "Atlantic Records",
+          "description": "Ross the Boss cuenta como se hizo este clásico de Manowar."
+        },
+        "desde_el_pogo": [
+          "Queens of the Stone Age",
+          "Carcass",
+          "Cradle of Filth",
+          "Tomahawk",
+          "Symphony X",
+          "Massacre (USA)",
+          "My Dying Bride",
+          "Bad Brains",
+          "Down"
+        ],
+        "historia_del_rock": {
+          "chapter": 55,
+          "year": 2001,
+          "part": 3
+        },
+        "main_album_review": {
+          "artist": "Ghost",
+          "album": "Infestissumam",
+          "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662715/content/sections/main_album_review/cover/71_ga2wog.jpg"
+        },
+        "gracias_por_la_magia": {
+          "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662779/content/sections/gracias_por_la_magia/cover/71_vu9edz.jpg"
+        }
+      },
+      "other": "Puño, el Copetín de Astilla, el Jeds Files, la columna de Gloria Cavalera, las reviews, el Scream For Me y más!"
+    },
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662582/cover/71_e7elom.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=1930&category_id=1",
+    "date": "Wed May 01 2013 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 70,
+    "title": "Down: El pantano está encantador",
+    "content": {
+      "main": [
+        {
+          "name": "Down",
+          "description": "Entrevistas con Phil Anselmo y Pepper Keenan"
+        }
+      ],
+      "featured": [
+        {
+          "name": "Cradle of Filth",
+          "description": "Reportaje"
+        },
+        {
+          "name": "Volbeat",
+          "description": "Reportaje"
+        },
+        {
+          "name": "Porcupine Tree",
+          "description": "Reportaje"
+        },
+        {
+          "name": "Prong",
+          "description": "Reportaje"
+        },
+        {
+          "name": "Carcass",
+          "description": "Los Lectores vs Jeff Walker"
+        }
+      ],
+      "sections": {
+        "gracias_por_la_magia": {
+          "album": "Brave Muder Day",
+          "artist": "Katatonia",
+          "year": 1996,
+          "label": "Avantgarde Music",
+          "description": "Jonas y Fred cuentan como se hizo esta pieza de culto",
+          "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662772/content/sections/gracias_por_la_magia/cover/70_wz5d3k.jpg"
+        },
+        "poster": "Testament",
+        "desde_la_tumba": {
+          "artist": "Left Hand Path",
+          "album": "Entombed",
+          "description": "Dan Seagrave nos cuenta como hizo la portada de Left Path Hand de Entombed",
+          "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662805/content/sections/desde_la_tumba/cover/70_ndf8q7.jpg"
+        },
+        "desde_el_pogo": [
+          "Anneke",
+          "Lacuna Coil",
+          "Sonata Arctica",
+          "Turisas"
+        ],
+        "historia_del_rock": {
+          "chapter": 54,
+          "year": 2001,
+          "part": 2
+        },
+        "main_album_review": {
+          "artist": "Spiritual Beggars",
+          "album": "Earth Blues",
+          "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662711/content/sections/main_album_review/cover/70_qehph4.jpg"
+        }
+      },
+      "other": "Puño, el Copetín de Astilla, el Jeds Files, la columna de Gloria Cavalera, las reviews, el Scream For Me y más!"
+    },
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662570/cover/70_egtaan.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=1929&category_id=1",
+    "date": "Mon Apr 01 2013 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 69,
+    "title": "V8: 30 aniversario \"Luchando por el Metal\"",
+    "content": {
+      "main": [
+        {
+          "name": "V8",
+          "description": "Hicimos 8 entrevistas y le dedicamos 10 páginas al aniversario del disco que fundó al Metal Argentino. Toda la data y las mejores anécdotas del período que va desde el día 1 de V8 hasta la salida de “Luchando por el Metal” con el certificado de calidad Jedbangers."
+        }
+      ],
+      "featured": [
+        {
+          "name": "Jason Newsted",
+          "description": "Extenso reportaje con el ex bajista de ya sabés quién..."
+        },
+        {
+          "name": "Encuesta 2012",
+          "description": "lo mejor, lo peor y lo que está en el medio"
+        },
+        {
+          "name": "Exodus",
+          "description": "Hablamos con Gary Holt en su paso por Rosario"
+        },
+        {
+          "name": "Stryper",
+          "description": "Michael Sweet cuenta como ser amarillo y negro pero nunca taxi."
+        },
+        {
+          "name": "Sonata Arctica",
+          "description": "Exclusiva con Tony y Henkka"
+        },
+        {
+          "name": "Hatebreed",
+          "description": "Exclusiva"
+        }
+      ],
+      "sections": {
+        "desde_la_tumba": {
+          "artist": "Morbid Angel",
+          "album": "Altar of Madness",
+          "description": "Dan cuenta como hizo la portada de este clásico",
+          "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662802/content/sections/desde_la_tumba/cover/69_xz6dis.jpg"
+        },
+        "desde_el_pogo": [
+          "Paradise Lost",
+          "Stryper",
+          "Tankard",
+          "Eluveitie",
+          "Nightwish"
+        ],
+        "historia_del_rock": {
+          "chapter": 53,
+          "year": 2001,
+          "part": 1
+        },
+        "main_album_review": {
+          "artist": "Helloween",
+          "album": "Straight Out Of Hell",
+          "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662709/content/sections/main_album_review/cover/69_vd335t.jpg"
+        }
+      },
+      "other": "El Jeds Files, las noticias, la columna de Gloria Cavalera, el Copetín de Astilla, Puño y más!"
+    },
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662557/cover/69_ll3sok.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=1928&category_id=1",
+    "date": "Tue Jan 01 2013 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 68,
+    "title": "Zakk & Slash: manos a la obra",
+    "content": {
+      "main": [
+        {
+          "name": "Slash",
+          "description": "Reportaje Exclusivo"
+        },
+        {
+          "name": "Zakk Wylde",
+          "description": "vs los lectores de Jedbangers"
+        }
+      ],
+      "featured": [
+        {
+          "name": "Top 10 de 2012",
+          "description": "El Staff elige sus discos preferidos"
+        },
+        {
+          "name": "Arch Enemy",
+          "description": "Habla Mike Amott"
+        },
+        {
+          "name": "Paradise Lost",
+          "description": "Doble reportaje"
+        }
+      ],
+      "sections": {
+        "poster": "Almafuerte",
+        "gracias_por_la_magia": {
+          "artist": "Amorphis",
+          "album": "Elegy",
+          "year": 1996,
+          "label": "Relapse",
+          "description": "Una pieza de culto made in Finlandia.",
+          "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662771/content/sections/gracias_por_la_magia/cover/68_tajqh1.jpg"
+        },
+        "desde_el_pogo": [
+          "Kiss",
+          "Asspera",
+          "Extreme Fest",
+          "Edguy",
+          "Dinosaur Jr",
+          "Ripper Owens",
+          "Scott Weiland",
+          "Whiplash"
+        ],
+        "historia_del_rock": {
+          "chapter": 52,
+          "year": 2000,
+          "part": 4
+        },
+        "main_album_review": {
+          "artist": "Soundgarden",
+          "album": "King Animal",
+          "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662708/content/sections/main_album_review/cover/68_kxf1zm.jpg"
+        }
+      },
+      "other": "El Jeds Files, las noticias, la columna de Gloria Cavalera, el Copetín de Astilla, Puño, el Scream for Me y más!"
+    },
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662554/cover/68_s6sjvz.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=1707&category_id=1",
+    "date": "Sat Dec 01 2012 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 67,
+    "title": "Maquinaria: Cobertura Especial",
+    "content": {
+      "main": [
+        {
+          "name": "Maquinaria",
+          "description": "Cobertura del Festival"
+        }
+      ],
+      "featured": [
+        {
+          "name": "Edguy",
+          "description": "Habla Tobias Sammeth"
+        },
+        {
+          "name": "Behemoth",
+          "description": "Mano a Mano con Nergal en Bs As"
+        },
+        {
+          "name": "Mastodon",
+          "description": "Reportaje con Bran Dailor"
+        },
+        {
+          "name": "Slayer",
+          "description": "Hablamos con Kerry king"
+        }
+      ],
+      "sections": {
+        "poster": "Stone Sour",
+        "desde_el_pogo": [
+          "Sepultura",
+          "linkin Park",
+          "G3",
+          "Metal Para Todos",
+          "Pennywise",
+          "Agnostic Front - H2o",
+          "Truckfighters",
+          "CjRamone",
+          "Marillion"
+        ],
+        "historia_del_rock": {
+          "chapter": 51,
+          "year": 2000,
+          "part": 3
+        },
+        "main_album_review": {
+          "artist": "Almafuerte",
+          "album": "Trillando La Fina",
+          "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662703/content/sections/main_album_review/cover/67_curq02.jpg"
+        }
+      },
+      "other": "El Jeds Files, las noticias, la columna de Gloria Cavalera, el Copetín de Astilla, Puño, el Scream for Me y más!"
+    },
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662544/cover/67_ewo8g2.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=1706&category_id=1",
+    "date": "Thu Nov 01 2012 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 66,
+    "title": "Megadeth: 20 Aniversario Countdown to Exctinction",
+    "content": {
+      "main": [
+        {
+          "name": "Megadeth",
+          "description": "MEGADETH – 20° ANIVERSARIO DE “COUNTDOWN TO EXTINCTION” El disco más exitoso de Megadeth cumplió 20 años y la banda de Mustaine vino a nuestro país para festejarlo. Por eso armamos un especial con entrevistas a Mustaine, Friedman y Ellefson actuales y de 1992 para entender mejor como se hizo “Countdown to Extinction”. Además, seguimos a Megadeth en todos sus shows de Bs As y Córdoba. 9 páginas para el recuerdo."
+        }
+      ],
+      "featured": [
+        {
+          "name": "Tank",
+          "description": "Reportaje exclusivo"
+        },
+        {
+          "name": "Cj Ramone",
+          "description": "Los lectores vs el ex Ramone"
+        },
+        {
+          "name": "Enforcer",
+          "description": "Olof no perdona"
+        },
+        {
+          "name": "Metallica",
+          "description": "Habla Bill Hale, el autor de \"Metallica: the Club Dayz\""
+        }
+      ],
+      "sections": {
+        "poster": "Rob Zombie",
+        "gracias_por_la_magia": {
+          "artist": "Agnostic Front",
+          "album": "Cause for Alarm",
+          "year": 1986,
+          "label": "Combat Core",
+          "description": "Clásico del Hardcore",
+          "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662768/content/sections/gracias_por_la_magia/cover/66_b8oxal.jpg"
+        },
+        "desde_el_pogo": [
+          "Trivium",
+          "Europe",
+          "Die Toten Hosen",
+          "Coal Chamber",
+          "Epica",
+          "Pain of salvation",
+          "Giardino/Turner"
+        ],
+        "historia_del_rock": {
+          "chapter": 50,
+          "year": 2000,
+          "part": 2
+        },
+        "main_album_review": {
+          "artist": "Steve Harris",
+          "album": "British Lion",
+          "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662699/content/sections/main_album_review/cover/66_l19mp3.jpg"
+        }
+      },
+      "other": "El Jeds Files, las noticias, la columna de Gloria Cavalera, el Copetín de Astilla, Puño, el Scream for Me y más!"
+    },
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662539/cover/66_rmgxcz.png",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=1705&category_id=1",
+    "date": "Mon Oct 01 2012 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 65,
+    "title": "Deep Purple: La Era Gloriosa",
+    "content": {
+      "main": [
+        {
+          "name": "Deep Purple",
+          "description": "Con la excusa de los 40 años de \"Machine Head\", recuperamos entrevistas perdidas a Ritchie Blackore e Ian Gillan, ambas realizadas en 1977, cuando ambos músicos ya no formaban parte del grupo. Además, hablamos con Roger Glover. Y con estos tres músicos, revivimos los años de oro -en los que surgieron \"In Rock\", \"Fireball\" y \"Machine Head\"- de una de las bandas mas importantes de la historia del rock pesado."
+        }
+      ],
+      "featured": [
+        {
+          "name": "Trivium",
+          "description": "Nota exclusiva"
+        },
+        {
+          "name": "Die Toten Hosen",
+          "description": "Habla Campino"
+        },
+        {
+          "name": "Informe: Vinilo",
+          "description": "Especial: El regreso de un formato dado por muerto."
+        },
+        {
+          "name": "Europe",
+          "description": "Joey Tempest"
+        }
+      ],
+      "sections": {
+        "poster": "In Flames",
+        "gracias_por_la_magia": {
+          "artist": "Pentagram",
+          "album": "Pentagram",
+          "year": 1985,
+          "label": "Pentagram",
+          "description": "Tan clásico, que se editó dos veces.",
+          "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662766/content/sections/gracias_por_la_magia/cover/65_i5lxd3.jpg"
+        },
+        "desde_el_pogo": [
+          "Walter Giardino Temple",
+          "Epica",
+          "Coal Chamber",
+          "Die Toten Hosen",
+          "Europe",
+          "Pain of Salvation"
+        ],
+        "historia_del_rock": {
+          "chapter": 49,
+          "year": 2000,
+          "part": 1
+        },
+        "main_album_review": {
+          "artist": "Testament",
+          "album": "Dark Roots Of Earth",
+          "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662697/content/sections/main_album_review/cover/65_uaxco1.jpg"
+        }
+      },
+      "other": "El Jeds Files, las noticias, la columna de Gloria Cavalera, el Copetín de Astilla, Puño, el Scream for Me y más!"
+    },
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662528/cover/65_q3rz3e.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=1553&category_id=1",
+    "date": "Sat Sep 01 2012 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 64,
+    "title": "Thrash Hasta la Muerte",
+    "content": {
+      "main": [
+        {
+          "name": "Testament",
+          "description": "Exclusiva con: Chuck "
+        },
+        {
+          "name": "Overkill",
+          "description": "Exclusiva con: Bobby"
+        },
+        {
+          "name": "Kreator",
+          "description": "Exclusiva con: Mille"
+        }
+      ],
+      "featured": [
+        {
+          "name": "Dragonforce",
+          "description": "Reportaje"
+        },
+        {
+          "name": "Jon Lord",
+          "description": "Homenaje"
+        },
+        {
+          "name": "Darkthrone",
+          "description": "Habla Fenriz!"
+        },
+        {
+          "name": "At The Gates",
+          "description": "Tompa en exclusiva"
+        }
+      ],
+      "sections": {
+        "poster": "At The Gates en Bs as",
+        "desde_el_pogo": [
+          "Plan 4",
+          "Vader",
+          "Rhapsody of Fire",
+          "The Agonist",
+          "NOFX"
+        ],
+        "historia_del_rock": {
+          "chapter": 48,
+          "year": 1999,
+          "part": 4
+        },
+        "sobrevivientes_del_rock": "Jeff Becerra",
+        "main_album_review": {
+          "artist": "Baroness",
+          "album": "Yellow and Green",
+          "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662694/content/sections/main_album_review/cover/64_zx6x5s.jpg"
+        }
+      },
+      "other": "El Jeds Files, las noticias, la columna de Gloria Cavalera, el Copetín de Astilla, Puño, el Scream for Me y más!"
+    },
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662519/cover/64_eqgcj2.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=1552&category_id=1",
+    "date": "Wed Aug 01 2012 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 2,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662352/cover/2_wlcwqq.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&product_id=9&flypage=flypage.tpl&pop=0",
+    "date": "Thu Aug 01 2002 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 3,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662378/cover/3_bmmzii.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=10&category_id=1"
+  },
+  {
+    "number": 4,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662415/cover/4_wercls.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=11&category_id=1",
+    "date": "Tue Apr 01 2003 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 5,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662452/cover/5_pjymud.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=12&category_id=1",
+    "date": "Fri Aug 01 2003 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 6,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1416758267/cover/6_x04gak.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=13&category_id=1"
+  },
+  {
+    "number": 7,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662560/cover/7_yxfzgn.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=15&category_id=1",
+    "date": "Sat May 01 2004 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 8,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662648/cover/8_ibrthb.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=16&category_id=1"
+  },
+  {
+    "number": 9,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662673/cover/9_metuoj.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=17&category_id=1",
+    "date": "Sat Jan 01 2005 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 10,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662323/cover/10_hqjyws.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=18&category_id=1",
+    "date": "Tue Mar 01 2005 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 11,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662326/cover/11_xtncby.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=19&category_id=1",
+    "date": "Sun May 01 2005 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 12,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662329/cover/12_avwnrf.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=20&category_id=1"
+  },
+  {
+    "number": 13,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662331/cover/13_xzmdiw.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=21&category_id=1"
+  },
+  {
+    "number": 14,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662334/cover/14_ngjktu.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=22&category_id=1"
+  },
+  {
+    "number": 15,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662337/cover/15_sm5uxr.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=23&category_id=1",
+    "date": "Mon May 01 2006 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 16,
+    "is_subscription_gift": true,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662340/cover/16_dvedct.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=24&category_id=1",
+    "date": "Sat Jul 01 2006 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 17,
+    "is_subscription_gift": true,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662343/cover/17_ygeuly.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=25&category_id=1",
+    "date": "Fri Sep 01 2006 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 18,
+    "is_subscription_gift": true,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662345/cover/18_b0qtir.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=26&category_id=1",
+    "date": "Fri Dec 01 2006 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 19,
+    "is_subscription_gift": true,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662348/cover/19_ofz1o4.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=27&category_id=1",
+    "date": "Sun Apr 01 2007 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 20,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662354/cover/20_xwccel.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=28&category_id=1",
+    "date": "Sat Sep 01 2007 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 21,
+    "is_subscription_gift": true,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662356/cover/21_dnaocb.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=33&category_id=1",
+    "date": "Sat Mar 01 2008 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 22,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662358/cover/22_tcswsq.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=34&category_id=1",
+    "date": "Thu May 01 2008 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 23,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662360/cover/23_j9ceoz.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=35&category_id=1",
+    "date": "Fri Aug 01 2008 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 24,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662362/cover/24_dmdhxe.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=36&category_id=1",
+    "date": "Tue Sep 01 2009 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 25,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662364/cover/25_sdjx2o.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=37&category_id=1",
+    "date": "Thu Jan 01 2009 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 26,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662367/cover/26_vrgvvx.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=38&category_id=1",
+    "date": "Sun Mar 01 2009 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 27,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662370/cover/27_kwycjp.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=39&category_id=1",
+    "date": "Wed Apr 01 2009 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 28,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662371/cover/28_reygo5.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=40&category_id=1",
+    "date": "Fri May 01 2009 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 29,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662376/cover/29_ebchxt.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=41&category_id=1",
+    "date": "Mon Jun 01 2009 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 30,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662382/cover/30_llfbks.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=42&category_id=1",
+    "date": "Wed Jul 01 2009 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 31,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662386/cover/31_auquav.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=43&category_id=1",
+    "date": "Sat Aug 01 2009 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 32,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662390/cover/32_fjoeyb.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=44&category_id=1",
+    "date": "Tue Sep 01 2009 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 33,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662393/cover/33_x87kou.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/index.php?page=shop.product_details&flypage=flypage.tpl&product_id=45&category_id=1&vmcchk=1&option=com_virtuemart&Itemid=6",
+    "date": "Thu Oct 01 2009 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 34,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662396/cover/34_jvz2qt.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=46&category_id=1",
+    "date": "Sun Nov 01 2009 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 35,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662400/cover/35_nn4ncm.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=47&category_id=1",
+    "date": "Fri Jan 01 2010 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 36,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662403/cover/36_crf2ad.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=48&category_id=1",
+    "date": "Mon Feb 01 2010 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 37,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662406/cover/37_iivaiw.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=49&category_id=1",
+    "date": "Mon Mar 01 2010 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 38,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662410/cover/38_uqegmc.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=50&category_id=1",
+    "date": "Thu Apr 01 2010 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 39,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662412/cover/39_kzn94d.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=51&category_id=1",
+    "date": "Sat May 01 2010 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 40,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662417/cover/40_j5on4x.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=52&category_id=1",
+    "date": "Tue Jun 01 2010 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 41,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662420/cover/41_in9yru.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=6&category_id=1",
+    "date": "Fri Jul 01 2011 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 42,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662423/cover/42_ve5wq1.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=4&category_id=1",
+    "date": "Sun Aug 01 2010 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 43,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662426/cover/43_ew51s4.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=110&category_id=1",
+    "date": "Wed Sep 01 2010 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 44,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662431/cover/44_epludv.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=237&category_id=1",
+    "date": "Fri Oct 01 2010 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 45,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662435/cover/45_osnnw5.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=348&category_id=1",
+    "date": "Mon Nov 01 2010 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 46,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662437/cover/46_d5rivl.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=491&category_id=1",
+    "date": "Wed Dec 01 2010 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 47,
+    "cover": [
+      "https://res.cloudinary.com/jedbangers/image/upload/v1413662439/cover/47_a_tfhubk.jpg",
+      "https://res.cloudinary.com/jedbangers/image/upload/v1413662444/cover/47_b_v6cp3a.png"
+    ],
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=492&category_id=1",
+    "date": "Tue Feb 01 2011 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 48,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662447/cover/48_lbug6s.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=562&category_id=1",
+    "date": "Tue Mar 01 2011 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 49,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662450/cover/49_xthioy.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=641&category_id=1",
+    "date": "Fri Apr 01 2011 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 50,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662455/cover/50_onifg3.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=642&category_id=1",
+    "date": "Sun May 01 2011 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 51,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662457/cover/51_fsxpif.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=643&category_id=1",
+    "date": "Wed Jun 01 2011 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 52,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662461/cover/52_e9amwn.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=883&category_id=1",
+    "date": "Fri Jul 01 2011 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 53,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662463/cover/53_ae8xem.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=952&category_id=1",
+    "date": "Mon Aug 01 2011 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 54,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662467/cover/54_fepobl.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=953&category_id=1",
+    "date": "Thu Sep 01 2011 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 55,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662470/cover/55_nhbg5l.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=954&category_id=1",
+    "date": "Sat Oct 01 2011 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 56,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662475/cover/56_xmlwwy.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=1073&category_id=1",
+    "date": "Tue Nov 01 2011 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 57,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662478/cover/57_o1d695.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=1074&category_id=1",
+    "date": "Thu Dec 01 2011 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 58,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662482/cover/58_rrhvy3.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=1165&category_id=1",
+    "date": "Wed Feb 01 2012 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 59,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662487/cover/59_ubifwu.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=1264&category_id=1",
+    "date": "Thu Mar 01 2012 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 60,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662490/cover/60_ipqodq.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=1265&category_id=1",
+    "date": "Sun Apr 01 2012 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 61,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662495/cover/61_wuhyqz.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=1549&category_id=1",
+    "date": "Tue May 01 2012 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 62,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662505/cover/62_ks2rdf.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=1550&category_id=1",
+    "date": "Fri Jun 01 2012 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 63,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413662514/cover/63_yn9vig.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=1551&category_id=1",
+    "date": "Sun Jul 01 2012 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 85,
+    "title": "Ghost, Exodus, BLS, Dream Theater, Killswitch Engage",
+    "content": {
+      "main": [
+        {
+          "name": "Dream theater",
+          "description": "Dos reportajes con James Labrie"
+        },
+        {
+          "name": "Ghost",
+          "description": "A solas y cara a cara con el hombre detrás de la máscara"
+        },
+        {
+          "name": "Black Label Society",
+          "description": "Habla Zakk"
+        },
+        {
+          "name": "Exodus",
+          "description": "Reportaje con Zetro Souza"
+        },
+        {
+          "name": "Killswitch Engage",
+          "description": "Reportaje y cobertura en Bs As"
+        }
+      ],
+      "featured": [
+        {
+          "name": "Blues Pills",
+          "description": "Reportaje con una de las revelaciones de 2014"
+        },
+        {
+          "name": " Belphegor",
+          "description": "Entrevista exclusiva"
+        },
+        {
+          "name": "Deny",
+          "description": "Entrevista Exclusiva"
+        },
+        {
+          "name": "Grave Digger",
+          "description": "Entrevista exclusiva"
+        },
+        {
+          "name": "Virgin Steele",
+          "description": "Entrevista exclusiva"
+        }
+      ],
+      "sections": {
+        "top_ten": "Los 20 mejores discos de Thrash post Disco Negro de Metallica",
+        "poster": "Electric Wizard",
+        "painting_blood": {
+          "album": "Destroyer",
+          "artist": "Kiss",
+          "cover_artist": "Ken Kelly",
+          "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1416321957/content/sections/painting_blood/cover/85_j0mnjt.jpg"
+        },
+        "desde_el_pogo": [
+          "Alcest"
+        ],
+        "historia_del_rock": {
+          "chapter": 69,
+          "year": 2004,
+          "part": 4
+        },
+        "sobrevivientes_del_rock": "Chris Holmes, ex W.A.S.P.",
+        "main_album_review": {
+          "artist": "Opeth",
+          "album": "Pale Communion",
+          "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1416321962/content/sections/main_album_review/cover/85_ai5w0c.jpg"
+        }
+      },
+      "other": "el Jeds Files, las noticias, la columna de Gloria Cavalera, \nel Copetin de Astilla, Puño,y  más! "
+    },
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1416495154/cover/85_ryja3f.jpg",
+    "store_product": "",
+    "date": "Mon Sep 01 2014 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 86,
+    "title": "Slipknot",
+    "content": {
+      "main": [
+        {
+          "name": "Slipknot",
+          "description": "¡Volvió Slipknot! Hablan Corey Taylor y Jim Root."
+        }
+      ],
+      "featured": [
+        {
+          "name": "Napalm Death",
+          "description": "Reportaje con Barney"
+        },
+        {
+          "name": "Cannibal Corpse",
+          "description": "Reportaje Exclusivo"
+        },
+        {
+          "name": "Dragonforce",
+          "description": "Doble reportaje (con Herman y Sam)"
+        },
+        {
+          "name": "Municipal Waste",
+          "description": "Habla Ryan"
+        },
+        {
+          "name": "Toxic Holocaust",
+          "description": "Reportaje con Joel Grind"
+        }
+      ],
+      "sections": {
+        "gracias_por_la_magia": {
+          "album": "Mötley Crüe",
+          "artist": "Mötley Crüe",
+          "year": 1994,
+          "label": "Elektra Records",
+          "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1416316150/content/sections/gracias_por_la_magia/cover/86_qpphyd.jpg",
+          "description": "John Corabi cuenta cómo se hizo el disco más polémico de los Crüe."
+        },
+        "top_ten": "Los 10 mejores discos de 1994",
+        "painting_blood": {
+          "album": "Jailbreak",
+          "artist": "Thin Lizzy",
+          "cover_artist": "Jim Fitzpatrick",
+          "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1416317773/content/sections/painting_blood/cover/86_one3sd.jpg"
+        },
+        "desde_el_pogo": [
+          "Exodus",
+          "Cavalera Conspiracy",
+          "Death To All",
+          "Napalm Death",
+          "Queens of the Stone Age",
+          "Tarja",
+          "Dream Theater",
+          "Radio Moscow"
+        ],
+        "historia_del_rock": {
+          "chapter": 70,
+          "year": 2005,
+          "part": 1
+        },
+        "main_album_review": {
+          "artist": "Exodus",
+          "album": "Blood In Blood Out",
+          "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1416317783/content/sections/main_album_review/cover/86_kogdrg.png"
+        }
+      },
+      "other": "El Jeds Files, las noticias, la columna de Gloria Cavalera, el Copetín de Astilla, Puño, el Scream for Me y más!"
+    },
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1416495166/cover/86_nztmhx.jpg",
+    "store_product": "",
+    "date": "Wed Oct 01 2014 00:00:00 GMT-0300 (Argentina Standard Time)"
+  },
+  {
+    "number": 1,
+    "cover": "https://res.cloudinary.com/jedbangers/image/upload/v1413668487/cover/1_i7g3al.jpg",
+    "store_product": "http://www.jedbangers.com.ar/tienda/revi.html?page=shop.product_details&flypage=flypage.tpl&product_id=14&category_id=1"
+  }
+]

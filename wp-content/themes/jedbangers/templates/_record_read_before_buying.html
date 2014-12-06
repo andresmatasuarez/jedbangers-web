@@ -1,0 +1,41 @@
+<div class="read-before-buying read-before-buying-record">
+	<div class="modal-header">
+	  <h3 class="modal-title">
+	  	Leer antes de comprar!
+	  	<span class="glyphicon glyphicon-remove" ng-click="$dismiss('close')"></span>
+	  </h3>
+	</div>
+	<div class="modal-body">
+		<strong>Todo lo que debés saber:</strong>
+		<ul>
+			<li>Los envíos pueden tardar entre 2 y 6 días hábiles.</li>
+			<li>Los envíos se hacen por correo privado. <strong>NO ES CORREO ARGENTINO NI TAMPOCO MENSAJERIA</strong>.  Por lo tanto, no nos sirve que nos digas “mandenme el paquete entre las 11 y las 2″ o similares.  Leé el siguiente punto.</li>
+			<li>Es necesario que haya alguien en el domicilio donde quieras recibir el producto. Las entregas son en <strong>horario laboral (de 9 a 18hs)</strong>. El cartero pasa dos veces y si no encuentra a nadie en la dirección que nos diste o si la dirección que nos pasaste es errónea, nos llegará de vuelta el sobre que te enviamos y en ese caso deberías pasar a retirarlo por nuestra oficina o pagar un envío aparte para que volvamos a enviartelo. Por esto, recomendamos que si en tu casa no es seguro que haya alguien de 9 a 18 hs, nos des el domicilio de tu trabajo, de la casa de un amigo, de un familiar, o donde sea que haya alguien seguro en ese horario.</li>
+			<li>Si tenés alguna pregunta o algo no te quedó claro, antes de realizar la compra, contactate con <a href="mailto:ventasmetal@gmail.com">ventasmetal@gmail.com</a></li>
+		</ul>
+	</div>
+	<div class="modal-footer buying-sites">
+		<div class="container-fluid">
+			<div class="buying-site buying-site-mp col-md-6">
+	  		<img ng-src="{{ paths.getImagePath('mercadopago.png') }}" />
+	  		<p>
+					Para los que que prefieran pagarlo en el <strong>pagofácil</strong> ó <strong>rapipago</strong> más cercano, o en <strong>cuotas con tarjeta</strong>.
+	  		</p>
+			</div>
+			<div class="buying-site buying-site-jeds col-md-6">
+	  		<img ng-src="{{ paths.getImagePath('logo.png') }}" />
+	  		<p>
+					Ideal para aquellos que quieran comprar este y otros discos de otras bandas o quieren pasar a retirarlo por nuestra oficina.
+	  		</p>
+			</div>
+		</div>
+		<div class="container-fluid">
+			<div class="col-md-6">
+			  <button class="btn btn-danger" ng-click="linkToMP()">Comprar por MercadoPago</button>
+			</div>
+			<div class="col-md-6">
+	  		<button class="btn btn-danger" ng-click="linkToJeds()">Comprar en la tienda online</button>
+			</div>
+		</div>
+	</div>
+</div>

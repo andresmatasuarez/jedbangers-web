@@ -1,0 +1,26 @@
+<div class="modal-header" ng-style="{ background: '#' + (params.is_error ? 'ce6363' : '6ace63') }">
+  <h3 class="modal-title">
+    <span ng-if="params.is_error" style="color: #fff;">
+      <span style="color: ; font-size: 32px; width: 32px; height: 32px; margin-right: 10px;" class="genericon genericon-warning"></span>
+        Ocurrió un error...
+    </span>
+    <span ng-if="!params.is_error" style="color: #005601;">
+      <span style="font-size: 32px; width: 32px; height: 32px; margin-right: 10px;"
+        class="genericon genericon-subscribed"></span>
+        Éxito!
+    </span>
+  </h3>
+</div>
+
+<div class="modal-body">
+  <span ng-if="!_.isArray(params.message)">{{ params.message }}</span>
+  <span ng-if="_.isArray(params.message)">
+    <ul>
+      <li ng-repeat="msg in params.message">{{ msg }}</li>
+    </ul>
+  </span>
+</div>
+
+<div class="modal-footer">
+  <button class="btn btn-danger" ng-click="$dismiss('close')">Cerrar</button>
+</div>

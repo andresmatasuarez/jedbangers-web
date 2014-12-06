@@ -1,0 +1,123 @@
+[
+  {
+    "b_id": 1,
+    "isbn":             "",
+    "title":            "Eligiendo la Muerte: la improbable historia del Death Metal & Grindcore",
+    "authors": {
+      "main":       "Albert Mudrian",
+      "prologue":   "John Peel"
+    },
+    "cover": "books/eligiendo_la_muerte.jpg",
+    "images": [
+      "books/mustaine_la_autobiografia_01.jpg",
+      "books/eligiendo_la_muerte.jpg",
+      "books/mustaine_la_autobiografia_01.jpg",
+      "books/eligiendo_la_muerte.jpg",
+      "books/mustaine_la_autobiografia_01.jpg",
+      "books/eligiendo_la_muerte.jpg",
+      "books/mustaine_la_autobiografia_01.jpg"
+    ],
+    "format": {
+      "pages": 240,
+      "width": 14,
+      "height": 21,
+      "unit": "cm"
+    },
+    "purchase_links": {
+      "store": "http://www.jedbangers.com.ar/tienda/index.php?page=shop.product_details&flypage=flypage.tpl&product_id=5&category_id=2&vmcchk=1&option=com_virtuemart&Itemid=9",
+      "mercadoshops": "http://jedbangers.mercadoshops.com.ar/eligiendo-la-muerte_1xJM"
+    },
+    "description": "<p>Con una revista no fue suficiente, así que fuimos por más. <span class=\"jedbangers\">Jedbangers</span> se enorgullece en editar en Argentina el libro “Choosing Death”, el cual cuenta la historia del Death Metal y el Grindcore desde sus orígenes hasta la actualidad. Nuestra versión llevará por título “Eligiendo la Muerte” y además de contar con una renovada tapa, estará totalmente traducido al castellano. El libro fue escrito por Albert Mudrian -editor de la revista Decibel- y cuenta con de John Peel, la leyenda del periodismo musical inglés.</p><p>El eje del libro se basa principalmente en la historia del Death Metal norteamericano, sus orígenes, su génesis, su desarrollo, sus momentos de mayor éxito y la expansión en Europa. También se hace incapié en la relación simbiótica del Death Metal con el Grindcore.</p><p>Resumir en pocas palabras lo que Albert Mudrain hizo es “Eligiendo la Muerte” es tarea complicada… para que tengas una idea, el autor realizó más de 100 entrevistas con músicos, managers, periodistas y gente de la industria discográfica. Si sos fan no te lo podés perder, sino lo sos tenés por delante un mundo de perdición que descubrir.</p>"
+  },
+
+  {
+    "b_id": 2,
+    "isbn":             "",
+    "title":            "Mustaine: la autobiografía",
+    "authors": {
+      "main": "Dave Mustaine & Joe Layden"
+    },
+    "cover": "books/mustaine_la_autobiografia.jpg",
+    "images": [
+      "books/mustaine_la_autobiografia_01.jpg"
+    ],
+    "format": {
+      "pages": 380,
+      "width": 15,
+      "height": 23,
+      "unit": "cm"
+    },
+    "purchase_links": {
+      "store": "http://www.jedbangers.com.ar/tienda/libr.html?page=shop.product_details&flypage=flypage.tpl&product_id=773&category_id=2",
+      "deposit": "http://www.jedbangers.com.ar/tienda/libr.html?page=shop.product_details&flypage=flypage.tpl&product_id=773&category_id=2",
+      "mercadoshops": "http://jedbangers.mercadoshops.com.ar/mustaine-la-autobiografia_68xJM"
+    },
+    "description": "<p>Dave Mustaine es el primero en admitir que ha tocado fondo algunas veces en su oscura y retorcida versión speed metal de una vida dickensiana.</p><ul><li>¿Una infancia empobrecida y vagabunda? Sí, la tuvo.</li><li>¿Un padre alcohólico y abusivo? También.</li><li>¿Locuras religiosas que te joden la mente (en su caso los dos extremos de los Testigos de Jehová y el satanismo)? También.</li><li>¿Alcoholismo, drogadicción y no tener un lugar dónde vivir? También, también y también.</li><li>¿Reveses artísticos y profesionales que te destrozan el alma? También.</li><li>¿Rehabilitación? También (unas diecisiete veces, más o menos).</li><li>¿Experiencia cercana con la muerte? Sí, esa también.</li></ul><p>Arquitecto de la sinfonía de la destrucción, especialista en romper reglas, dueño de los riffs más vertiginosos e ícono del Metal adoptado por el público argentino, Dave Mustaine repasa en esta autobiografía sus días en <strong>Metallica</strong>, revela como se convirtió en el fundador principal del Thrash Metal y cuenta con detalles (disco por disco) la vida y obra de Megadeth, la bestia perfecta.</p><p><span class=\"jedbangers\">Jedbangers</span> se enorgullece en presentar la edición para todo el territorio argentino de la autobiografía de Dave Mustaine. Traducida al castellano (única en todo el mundo), “MUSTAINE: La autobiografía” cuenta con un arte de tapa renovado y además, se presenta en una caja contenedora inspirada en el arte de tapa de Rust In Peace. Y para todos aquellos que compren el libro a través de <span class=\"jedbangers\">Jedbangers</span>, tenemos un poster de 30 cm x 40 cm ¡DE REGALO!</p>"
+  },
+
+  {
+    "b_id": 3,
+    "isbn":             "",
+    "title":            "Iron Man: Mi viaje a través del cielo y el infierno con Black Sabbath",
+    "authors": {
+      "main": "Tony Iommi & T.J. Lammers"
+    },
+    "cover": "books/iron_man.gif",
+    "format": {
+      "pages": 336,
+      "width": 13,
+      "height": 18,
+      "unit": "cm"
+    },
+    "purchase_links": {
+      "store": "",
+      "deposit": "",
+      "mercadoshops": ""
+    },
+    "description": ""
+  },
+
+  {
+    "b_id": 4,
+    "isbn":             "",
+    "title":            "Metallica: The Club Dayz 1982-1984",
+    "authors": {
+      "main": "Bill Hale"
+    },
+    "cover": "books/clubdayz.jpg",
+    "format": {
+      "pages": 0,
+      "width": 0,
+      "height": 0,
+      "unit": "cm"
+    },
+    "purchase_links": {
+      "store": "http://www.jedbangers.com.ar/tienda/libr.html?page=shop.product_details&flypage=flypage.tpl&product_id=1861&category_id=2",
+      "deposit": "",
+      "mercadoshops": "http://jedbangers.mercadoshops.com.ar/metallica-the-club-dayz-edicion-limitada-53xJM"
+    },
+    "description": "<p>¿Quién dijo que todo pasado fue mejor? No lo sabemos, ¡pero cuanta razón! <strong>Metallica</strong> no es la excepción a la regla y <span class=\"jedbangers\">Jedbangers</span> te mete en la máquina del tiempo para revivir el momento de mayor pureza de la banda más popular del Metal.</p><p>Originalmente editado por EWC press, el libro está conformado por cientos de fotos de <strong>Metallica</strong> tomadas por Bill Hale en el período que abarca desde 1982 a 1984. Es decir, vas a poder ver los primeros shows de la formación Hetfield – Ulrich – McGovney – Mustaine, como así tambien de la alineación que contó con Mustaine y Cliff Burton y que, con el ingreso de Hammett en lugar de Dave, terminaría grabando “Kill ‘em All”. Además, el libro cuenta con texto a cargo de Bob Nalbandian y Ron Quintana, dos periodistas/amigos que, además de ver nacer a <strong>Metallica</strong>, intercambiaban discos e ideas con los miembros de la banda y fueron testigos de esos primeros shows, a tal punto que Lars tomaría prestado el nombre de la banda del nombre original pensado por Quintana para su Fanzine.</p><p>La edición de <span class=\"jedbangers\">Jedbangers</span>, además de incluir fotos inéditas que no formaron parte de la edición original, trae un fanzine de 32 páginas con reportajes, data y más detalles de los primeros años. Todo este material está cubierto por un estuche de cartón, conformando una edición imperdible para los fanáticos de la banda.</p><hr>  <div style=\"font-size: 0.8em\"><strong>EDICIÓN DE LUJO</strong> (sólo disponible a través de Jedbangers.com.ar)<br/><ul><li><strong>Libro “The Club Dayz” por Bill Hale</strong><br/>Reviví los primeros shows de <strong>Metallica</strong> a través de las fotografías geniales de Bill</li><li><strong>Caja deluxe</strong><br/>Estuche de cartón estilo anvil. Para guardar todo el combo, para lucirla en la repisa, para ser la envidia del barrio (ojo que no te la afanen).</li><li><strong>Fanzine</strong><br/>Revista de 32 páginas impresa en papel obra. Nunca leiste tanta info tan detallada y específica sobre los primeros días de <strong>Metallica</strong>. Además de recopilar declaraciones de los músicos y muchísima data, hicimos entrevistas con la gente que vio nacer a <strong>Metallica</strong>: <strong>Bob Nalbandian</strong> (periodista y amigo de Lars Ulrich, siguió los primeros shows de la banda en Los Ángeles), <strong>Ron Quintana</strong> (creador del fanzine Metalmania que originalmente se iba a llamar... <strong>¡Metallica!</strong>), <strong>Bob Gamber</strong> (plomo y asistente de <strong>Metallica</strong>), <strong>Marsha</strong> y <strong>Jon Zazula</strong> (dueños de Megaforce Records. Editaron “Kill ‘Em All” y “Ride the Lightning”), <strong>Scott Earl</strong> (bajista de Culprit, telonero de <strong>Metallica</strong> en San Francisco), <strong>John Gallagher</strong> (líder de Raven, la banda que encabezó la primera gira de <strong>Metallica</strong> en EE.UU.) y <strong>Brian Tatler</strong> (líder de Diamond Head, principal inspiración de <strong>Metallica</strong>).</li><li><strong>Foto</strong><br/>Impresa en papel fotográfico. Medidas: 13 cm x 18 cm</li><li><strong>Credencial</strong><br/>Pase de fotógrafo. Plastificado y con cordón</li><li><strong>Flyers</strong><br/>4 flyers de shows de <strong>Metallica</strong></li><li><strong>Poster</strong><br/>Poster en papel ilustración de 42 cm x 29 cm</li></ul></div>"
+  },
+
+  {
+    "b_id": 5,
+    "isbn":             "",
+    "title":            "Lemmy: White Line Fever",
+    "authors": {
+      "main": "Lemmy Kilmister & Janiss Garza"
+    },
+    "cover": "books/whitelinefever.jpg",
+    "format": {
+      "pages": 0,
+      "width": 0,
+      "height": 0,
+      "unit": "cm"
+    },
+    "purchase_links": {
+      "store": "http://www.jedbangers.com.ar/tienda/index.php?page=shop.product_details&flypage=flypage.tpl&product_id=2626&category_id=2&option=com_virtuemart&Itemid=9",
+      "deposit": "",
+      "mercadoshops": "http://jedbangers.mercadoshops.com.ar/lemmy-autobiografia-20xJM"
+    },
+    "description": ""
+  }
+]

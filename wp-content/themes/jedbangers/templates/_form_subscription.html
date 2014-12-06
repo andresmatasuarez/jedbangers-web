@@ -1,0 +1,97 @@
+<div ng-if="model.form.successfullySent" class="alert alert-success" role="alert">
+  <strong>{{ model.form.successfullySent }}</strong>
+</div>
+
+<form ng-if="!model.form.successfullySent" ng-submit="submit()" name="form_subscription" class="form-horizontal" role="form" novalidate>
+
+  <fieldset ng-disabled="model.sending">
+
+    <div class="form-group" ng-class="{ 'has-error': !form_subscription.first_name.$pristine && form_subscription.first_name.$invalid }">
+      <label for="first_name" class="col-md-4 control-label">Nombre/s *</label>
+      <div class="col-md-7">
+        <input maxlength="30" type="text" id="first_name" name="first_name" class="form-control" ng-model="model.form.first_name" required>
+      </div>
+    </div>
+
+    <div class="form-group" ng-class="{ 'has-error': !form_subscription.last_name.$pristine && form_subscription.last_name.$invalid }">
+      <label for="last_name" class="col-md-4 control-label">Apellido/s *</label>
+      <div class="col-md-7">
+        <input maxlength="30" type="text" id="last_name" name="last_name" class="form-control" ng-model="model.form.last_name" required>
+      </div>
+    </div>
+
+    <div class="form-group" ng-class="{ 'has-error': !form_subscription.email.$pristine && form_subscription.email.$invalid }">
+      <label for="email" class="col-md-4 control-label">Correo electrónico *</label>
+      <div class="col-md-7">
+        <input type="email" id="email" name="email" class="form-control" ng-model="model.form.email" required>
+      </div>
+    </div>
+
+    <div class="form-group" ng-class="{ 'has-error': !form_subscription.province.$pristine && form_subscription.province.$invalid }">
+      <label for="province" class="col-md-4 control-label">Provincia *</label>
+      <div class="col-md-7">
+        <select type="text" id="province" name="province" class="form-control" ng-model="model.form.province" required ng-options="province as province.name for province in model.provinces" ng-change="changeCities()">
+          <option value="" disabled>-- Seleccioná tu provincia --</option>
+        </select>
+      </div>
+    </div>
+
+    <div ng-if="model.form.province" class="form-group" ng-class="{ 'has-error': !form_subscription.city.$pristine && form_subscription.city.$invalid }">
+      <label for="city" class="col-md-4 control-label">Ciudad/Localidad *</label>
+      <div class="col-md-7">
+        <input maxlength="70" type="text" id="city" ng-disabled="_.isEmpty(model.cities)" name="city" class="form-control" ng-model="model.form.city" placeholder="Encontrá tu ciudad o localidad..."
+          required typeahead="city.name for city in model.cities | filter:$viewValue | limitTo:8" typeahead-editable="false">
+      </div>
+    </div>
+
+    <div ng-if="model.form.province" class="form-group" ng-class="{ 'has-error': !form_subscription.address.$pristine && form_subscription.address.$invalid }">
+      <label for="address" class="col-md-4 control-label">Dirección *</label>
+      <div class="col-md-7">
+        <input type="text" maxlength="70" id="address" name="address" class="form-control" ng-model="model.form.address" required>
+      </div>
+    </div>
+
+    <div ng-if="model.form.province" class="form-group" ng-class="{ 'has-error': !form_subscription.zip_code.$pristine && form_subscription.zip_code.$invalid }">
+      <label for="zip_code" class="col-md-4 control-label">Código postal *</label>
+      <div class="col-md-7">
+        <input type="number" min="1000" max="9999" id="zip_code" name="zip_code" class="form-control" ng-model="model.form.zip_code" placeholder="4 dígitos" required>
+      </div>
+    </div>
+
+    <div ng-if="!_.isEmpty(model.giftMagazines)" class="form-group" ng-class="{ 'has-error': !form_subscription.gift_magazine.$pristine && form_subscription.gift_magazine.$invalid }">
+      <label for="gift_magazine" class="col-md-4 control-label">Revista de regalo</label>
+      <div class="col-md-7 btn-group">
+        <div class="gift-magazine" ng-repeat="m in model.giftMagazines">
+          <a href="" ng-click="openIssueModal(m.number)">
+            <img class="cover" ng-src="{{ m.cover }}" width="70" height="100" />
+          </a>
+          <div class="gift-magazine-texts">
+            <input type="radio" id="gift_magazine_{{ m.number }}" name="gift_magazine" ng-model="model.form.gift_magazine" ng-value="m.number">
+            <label for="gift_magazine_{{ m.number }}" class="jedbangers">#{{ m.number }}</label>
+          </div>
+        </div>
+        <div class="small-legend">
+          <strong>IMPORTANTE:</strong> Si no aclarás qué revista querés de regalo, daremos por hecho que no te interesa ninguna.
+        </div>
+      </div>
+    </div>
+
+    <div class="form-group" ng-class="{ 'has-error': !form_subscription.notes.$pristine && form_subscription.notes.$invalid }">
+      <label for="notes" class="col-md-4 control-label">Notas</label>
+      <div class="col-md-7">
+        <textarea maxlength="250" id="notes" name="notes" class="form-control" ng-model="model.form.notes" rows="4" placeholder="Comentarios y/o aclaraciones"></textarea>
+      </div>
+    </div>
+
+    <div class="form-group">
+      <div class="col-md-offset-4 col-md-7">
+        <div vc-recaptcha key="model.key" lang="es" theme="white"></div>
+        <button type="submit" class="btn btn-danger subscription-button" ng-disabled="form_subscription.$invalid">
+          {{ model.sending ? 'Enviando...' : 'Enviar' }}
+        </button>
+      </div>
+    </div>
+
+  </fieldset>
+
+</form>
