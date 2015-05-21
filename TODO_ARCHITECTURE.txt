@@ -1,0 +1,5 @@
+- Sitio wordpress se sirve desde el hosting de jedbangers
+
+- Dashboard se sirve desde Heroku (numeros, libros, sello, etc, todo lo cargable a mano excepto posts y cosas relacionadas con el blog.)
+
+- Se habilita CORS en la API del Dashboard para obtener medianste AJAX los datos desde el sitio Wordpress

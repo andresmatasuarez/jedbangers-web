@@ -34,10 +34,10 @@ a:hover { color: #962A2A; text-decoration: none; }
 
 .social { padding: 5px 10px 10px 10px; }
 .social a, .social a:active, .social a:visited { color: gray; }
-.social a:hover, .social a:focus { color: black; text-decoration: none; }
+.social a:hover, .social a:focus { color: #ca4242; text-decoration: none; }
 .social .genericon { width: inherit; height: inherit; font-size: 3rem; }
 
-.sidebar-column { background: url('img/covers4.png'); border-left: 3px solid black; border-right: 3px solid black; }
+.sidebar-column { background: url('img/covers4.png'); border-left: 3px solid black; border-right: 3px solid black; box-shadow: 0 0 10px 1px; }
 .sidebar { background: transparent; padding: 5px; }
 .sidebar .thumbnail { background: #000; border: none; padding: 5px; margin-bottom: 5px; color: #FFF; font-family: 'Oswald', sans-serif;  border-radius: 0; }
 .sidebar .thumbnail h5,

@@ -18,6 +18,7 @@ require_once 'config.php';
 
 define('WP_SITEURL', 'http://' . $_SERVER['HTTP_HOST']);
 define('WP_HOME'   , 'http://' . $_SERVER['HTTP_HOST']);
+define('FB_APP_ID' , Config::$FB_APP_ID);
 
 if (getenv('ENV') !== 'production'){
   define('WP_DEBUG', true);

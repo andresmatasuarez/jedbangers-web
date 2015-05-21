@@ -58,7 +58,7 @@
 					<div
 						class="fb-like post-fb-like"
 						style="display: table-cell; vertical-align: middle;"
-						data-href="<?php echo get_permalink(); ?>"
+						data-href="<?php echo WP_SITEURL . get_permalink(); ?>"
 						data-layout="box_count"
 						data-action="like"
 						data-show-faces="false"
@@ -116,7 +116,8 @@
 		</div>
 
 		<div class="row comments">
-			<?php disqus_embed('revistajedbangers'); ?>
+			<?php //disqus_embed('revistajedbangers'); ?>
+			<div class="fb-comments" data-href="<?php echo WP_SITEURL . get_permalink(); ?>" data-width="100%" data-numposts="5" data-colorscheme="light"></div>
 		</div>
 
 	</div>

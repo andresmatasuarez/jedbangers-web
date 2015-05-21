@@ -5,36 +5,39 @@
 
 abstract class Config {
 
-  static $ENV = null;
-  static $RECAPTCHA_SECRET = null;
-  static $RECAPTCHA_PUBLIC = null;
-  static $SENDGRID_USERNAME = null;
-  static $SENDGRID_PASSWORD = null;
-  static $SENDGRID_OPTIONS = null;
-  static $CONTACT_FORM_TO = null;
+  static $ENV                  = null;
+  static $RECAPTCHA_SECRET     = null;
+  static $RECAPTCHA_PUBLIC     = null;
+  static $SENDGRID_USERNAME    = null;
+  static $SENDGRID_PASSWORD    = null;
+  static $SENDGRID_OPTIONS     = null;
+  static $CONTACT_FORM_TO      = null;
   static $SUBSCRIPTION_FORM_TO = null;
+  static $FB_APP_ID            = null;
 
-  static $DATABASE_URL = null;
-  static $TABLE_PREFIX = null;
+  static $DATABASE_URL         = null;
+  static $TABLE_PREFIX         = null;
 
-  static $AUTH_KEY = null;
-  static $SECURE_AUTH_KEY = null;
-  static $LOGGED_IN_KEY = null;
-  static $NONCE_KEY = null;
-  static $AUTH_SALT = null;
-  static $SECURE_AUTH_SALT = null;
-  static $LOGGED_IN_SALT = null;
-  static $NONCE_SALT = null;
+  static $AUTH_KEY             = null;
+  static $SECURE_AUTH_KEY      = null;
+  static $LOGGED_IN_KEY        = null;
+  static $NONCE_KEY            = null;
+  static $AUTH_SALT            = null;
+  static $SECURE_AUTH_SALT     = null;
+  static $LOGGED_IN_SALT       = null;
+  static $NONCE_SALT           = null;
 
 }
 
-Config::$ENV = getenv('ENV') ? getenv('ENV') : 'development';
-Config::$RECAPTCHA_SECRET = getenv('RECAPTCHA_SECRET_KEY') ? getenv('RECAPTCHA_SECRET_KEY') : '6LdJQPsSAAAAAPR785D6gMWnB6wWppIqTzWmt8B1';
-Config::$RECAPTCHA_PUBLIC = getenv('RECAPTCHA_PUBLIC_KEY') ? getenv('RECAPTCHA_PUBLIC_KEY') : '6LdJQPsSAAAAANTzbkrSJBRnZ5emZm_emcxQaYiK';
-Config::$SENDGRID_USERNAME = getenv('SENDGRID_USERNAME') ? getenv('SENDGRID_USERNAME') : 'app32279133@heroku.com';
-Config::$SENDGRID_PASSWORD = getenv('SENDGRID_PASSWORD') ? getenv('SENDGRID_PASSWORD') : 'nmurhx20';
-Config::$SENDGRID_OPTIONS = getenv('ENV') !== 'production' ? array('turn_off_ssl_verification' => true) : array();
-Config::$CONTACT_FORM_TO = 'amatasuarez@gmail.com';
+Config::$ENV                  = getenv('ENV')                  ? getenv('ENV')                  : 'development';
+Config::$RECAPTCHA_SECRET     = getenv('RECAPTCHA_SECRET_KEY') ? getenv('RECAPTCHA_SECRET_KEY') : '6LdJQPsSAAAAAPR785D6gMWnB6wWppIqTzWmt8B1';
+Config::$RECAPTCHA_PUBLIC     = getenv('RECAPTCHA_PUBLIC_KEY') ? getenv('RECAPTCHA_PUBLIC_KEY') : '6LdJQPsSAAAAANTzbkrSJBRnZ5emZm_emcxQaYiK';
+Config::$SENDGRID_USERNAME    = getenv('SENDGRID_USERNAME')    ? getenv('SENDGRID_USERNAME')    : 'app32279133@heroku.com';
+Config::$SENDGRID_PASSWORD    = getenv('SENDGRID_PASSWORD')    ? getenv('SENDGRID_PASSWORD')    : 'nmurhx20';
+Config::$FB_APP_ID            = getenv('FB_APP_ID')            ? getenv('FB_APP_ID')            : '660565487397732'; // fbAppId: '369629269872839' // PRODUCTION
+Config::$SENDGRID_OPTIONS     = getenv('ENV') !== 'production' ? array('turn_off_ssl_verification' => true) : array();
+
+Config::$CONTACT_FORM_TO      = 'amatasuarez@gmail.com';
 Config::$SUBSCRIPTION_FORM_TO = 'amatasuarez@gmail.com';
 
 // DB settings

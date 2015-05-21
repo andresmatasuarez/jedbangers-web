@@ -131,10 +131,10 @@
 
 	  <!-- FB button -->
 	  <script>
-	    window.fbAsyncInit = function() {
+	  	var fbAppId = '<?php echo FB_APP_ID; ?>';
+	    window.fbAsyncInit = function(){
 	      FB.init({
-	      	// appId: '369629269872839' // PRODUCTION
-	        appId      : '660565487397732',
+	        appId      : fbAppId,
 	        xfbml      : true,
 	        version    : 'v2.2'
 	      });
